@@ -69,7 +69,7 @@ Coming Soon.
 
 
 
-<center><i>Stay Hungry, Stay Foolish</i></center>
+<center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
 
 
 
