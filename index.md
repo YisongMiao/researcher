@@ -4,7 +4,7 @@ layout: default
 
 ## I'm Yisong
 
-<img class="profile-picture" src="Yisong-Xin.jpeg">
+<img class="profile-picture" src="photo.jpg">
 
 
 
