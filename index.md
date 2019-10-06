@@ -36,7 +36,7 @@ My office is on level 5 of AS6 building. <br>
 
 ### Discourse and Lexical Semantics
 
-- Contextual Lexical Relation  
+- Contextual Lexical Relation.
 - Implicit Discourse Relation Recognition.  
 
 ---
