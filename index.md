@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## I'm Yisong
 
 <img class="profile-picture" src="sherlock.jpg">
 
