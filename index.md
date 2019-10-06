@@ -49,7 +49,7 @@ Coming Soon.
 
 <!-- > I never let school interfere with my education. -- Mark Twain -->
 
-2014-2018, Bachelor of Engineering in Computer Science 
+2014-2018, Bachelor of Engineering in Computer Science. <br>
 **Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
 
 2018-2020, Master of Computing, National University of Singapore.
