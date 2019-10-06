@@ -1,6 +1,6 @@
 # UCMW (You See My World)
 
-[Yisong's Personal Website](yisong.me)
+[Link to Yisong's Personal website ](http://www.yisong.me/)
 
 This project is conducted purely out of my personal interest. 
 
