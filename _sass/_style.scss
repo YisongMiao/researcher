@@ -9,11 +9,28 @@ html {
     margin: 0;
     padding: 0;
 }
+
+
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    color: #333;
+    /* font: normal 14px Verdana, Arial, Sans-Serif;*/
+    font-family: "Lucida Grande", sans-serif;
     height: 100%;
+    font-size: 10pt;
 }
+
+h1 {
+    /* font: normal 16px Verdana, Arial, Sans-Serif;*/
+    font-family: "Lucida Grande", sans-serif;
+    /* font-family: 'Comfortaa', Helvetica, sans-serif;*/
+    /*font-family: 'Comfortaa', sans-serif;*/
+    /* color: #333;*/
+    color: #cd3700;
+    font-size: 12pt;
+    font-weight:normal;
+}
+
 a {
     text-decoration: none;
     color: $accent;
@@ -72,15 +89,6 @@ hr {
     min-height: 100%;
 }
 
-/* Institute Image */
-
-#ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
-}
-
 /* Mobile */
 
 @media (max-width: 800px) {
@@ -99,32 +107,10 @@ hr {
     }
 }
 
-@media (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
-	#author-name {
-		width: 100%;
-		float: none;
-	}
-	#navlist {
-		padding: 10px 0 10px 0;
-		margin: 0;
-		display: block;
-		float: none;
-		text-align: center;
-		width: 100%;
-	}
-	#navlist li.alignable {
-		display: inline-block;
-	}
-	#navlist li.pull-left {
-		float: none;
-	}
-	#navlist li.nav-list {
-		margin: 0;
-	}
+@media (max-width: 580px) {
+    #author-name {
+        display: inline-block;
+    }
 }
 
 @import "typography";
