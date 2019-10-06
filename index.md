@@ -10,7 +10,7 @@ layout: default
 
 Welcome to my personal website!
 
-## About
+# About
 
 I'm a second-year master student at [SoC(School of Computing)](https://www.comp.nus.edu.sg/), [NUS(National University of Singapore)](https://www.nus.edu.sg/). <br>
 I'm affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://www.wing.nus.edu.sg/). <br>
@@ -20,7 +20,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 ---
 
-## Research Interest
+# Research Interest
 
 <!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
 
@@ -39,13 +39,13 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 ---
 
-## Publications
+# Publications
 
 Coming Soon.
 
 ---
 
-## Education
+# Education
 
 <!-- > I never let school interfere with my education. -- Mark Twain -->
 
@@ -56,7 +56,7 @@ Coming Soon.
 
 ---
 
-## URL Link to my friends
+# URL Link to my friends
 
 <!-- > *When Voldmolt is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter -->
 
