@@ -64,11 +64,9 @@ Coming Soon.
 
 
 
----
-
-Stay Hungry, Stay Foolish
 
 
+<center>Stay Hungry, Stay Foolish</center>>
 
 
 
