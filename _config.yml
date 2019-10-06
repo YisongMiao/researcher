@@ -7,8 +7,8 @@ url: "https://yisong.me"
 #    link: "/researcher/"
 #  - name: "Resume"
 #    link: "resume.pdf"
-#  - name: "Contact"
-#    link: "contact"
+ - name: "UCMW"
+   link: "contact"
 
 #theme: jekyll-theme-cayman
 #remote_theme: ankitsultana/researcher@gem
