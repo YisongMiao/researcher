@@ -14,7 +14,7 @@ Therefore I propose a system that can seamlessly achieve following two goals.
 
 
 
-## 1. Fundamental
+## Goal 1. Fundamental
 
 The system is able to automatically record following things with timestamps:
 
@@ -32,7 +32,7 @@ To achieve this, luckily the information mentioned above can be automatically ob
 
 
 
-## 2. Progressive
+## Goal 2. Progressive
 
 The system is able to provide insight to the life I had in a lag of time, provide comparison and improvement for following aspects:
 
