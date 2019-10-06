@@ -14,7 +14,7 @@ Welcome to my personal website!
 
 I'm a second-year master student at [SoC(School of Computing)](https://www.comp.nus.edu.sg/), [NUS(National University of Singapore)](https://www.nus.edu.sg/).  
 I'm affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://www.wing.nus.edu.sg/)  
-I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home)
+I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home).
 
 
 
