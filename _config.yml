@@ -24,4 +24,5 @@ nav:
    link: "contact"
 
 #theme: jekyll-theme-cayman
-remote_theme: ankitsultana/researcher@gem
+#remote_theme: ankitsultana/researcher@gem
+theme: ankitsultana/researcher@gem
