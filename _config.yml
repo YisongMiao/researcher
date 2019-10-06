@@ -8,7 +8,7 @@ nav:
 #  - name: "Resume"
 #    link: "resume.pdf"
  - name: "UCMW"
-   link: "/UCWM/UCMW_index.md"
+   link: "/UCWM/UCMW_index"
 
 #theme: jekyll-theme-cayman
 #remote_theme: ankitsultana/researcher@gem
