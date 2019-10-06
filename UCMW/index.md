@@ -24,7 +24,9 @@ The system is able to automatically record following things with timestamps:
 - The goal/purpose of my day and how I accomplish it
 - The book/article/music that I dive into.
 
-After these information are automatically collect, it can generate a summary and post to my friends. It is worth noting that it combines multi-modal information, including text, pictures, music... Basically all the senses human can perceive.
+After these information are automatically collected, the system is able to generate a summary which is interesting and insightful. After the generation process, the system then post it to my friends.
+
+It is worth noting that we combine multi-modal information, including text, pictures, music... Basically all the senses human can perceive.
 
 To achieve this, luckily the information mentioned above can be automatically obtained by integrating multi-sensor, like Apple Watch, Camera, screenshots from Macbooks...
 
@@ -39,9 +41,22 @@ The system is able to provide insight to the life I had in a lag of time, provid
 - The inner growth that I make: what I learn, what idea I'm thinking about. 
 - The progress and distance towards my short-term and long-term goals.
 
-To achieve this, we need to transfer these un-structured information more structured at the first step.
+To achieve this, we need to transfer these un-structured information types into more structured ones at the first step.
 
-Yisong is thinking about following steps.
+Yisong is thinking about following steps... 
 
 
 
+## Seeking collaborations
+
+> I believe the dreamers come first. -- Jeff Bezos.
+
+If you're interested to work on this project with me, and be **co-dreamers** with  me, don't hesitate to contact me via email! [email address](miaoyisong@gmail.com)
+
+I believe this project is fun, and impactful. Upon accomplished, it will not only provide a bridge for thousands of people to connect their friends, but also give us a chance to do a self-UCMW :D
+
+<br>
+
+<br>
+
+<br>

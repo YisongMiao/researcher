@@ -16,7 +16,7 @@ I'm a second-year master student at [SoC(School of Computing)](https://www.comp.
 I'm affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://www.wing.nus.edu.sg/). <br>
 I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home). <br>
 My office is on level 5 of AS6 building. <br><br>
-My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts), and answer a basic question: how we human perceive beauty.
+My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts), and answer a basic question: how we human perceive beauty. To achieve this <b>long-term goal</b>, I take a first stab by doing [UCMW project](UCWM/index) purely out of my personal interest.
 
 ---
 
@@ -69,9 +69,7 @@ Coming Soon.
 
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8" width="20" height="20"></script>
 
-
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
-
 
 
 
