@@ -1,10 +1,9 @@
 # 2 way
 
-Seamlessly 
+Seamlessly achieve two goals.
 
 
 
 ## Fundamental
 
 ## Progressive
-
