@@ -16,7 +16,7 @@ I'm a second-year master student at [SoC(School of Computing)](https://www.comp.
 I'm affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://www.wing.nus.edu.sg/)  
 I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home).
 
-
+---
 
 ## Research Interest
 
@@ -32,13 +32,13 @@ I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~k
 - Contextual Lexical Relation  
 - Implicit Discourse Relation Recognition.  
 
-
+---
 
 ## Publications
 
 Coming Soon.
 
-
+---
 
 ## Education
 
@@ -49,7 +49,7 @@ Coming Soon.
 
 2018-2020, Master of Computing, National University of Singapore.
 
-
+---
 
 ## URL Link to my friends
 
