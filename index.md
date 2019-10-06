@@ -20,7 +20,7 @@ I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~k
 
 ## Research Interest
 
-> *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style.
+<!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
 
 ### Conversational AI
 
@@ -42,7 +42,7 @@ Coming Soon.
 
 ## Education
 
-> I never let school interfere with my education. -- Mark Twain
+<!-- > I never let school interfere with my education. -- Mark Twain -->
 
 2014-2018, Bachelor of Engineering in Computer Science 
 **Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
@@ -53,7 +53,7 @@ Coming Soon.
 
 ## URL Link to my friends
 
-> *When Voldmolt is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter
+<!-- > *When Voldmolt is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter -->
 
 - [Ms. Xin Wang](wangxinalice.com) is not only my girlfriend, but also my best friend. She is now an investment associate with [Prosperity Investment](http://www.cgpinvestment.com) based in Beijing, sha has broad interest in the AI industry and AI-enpowered traditional industry. She earned dual degree in Bachelor of Law and English Literature from [UIBE](http://www.uibe.edu.cn) in 2017. We are in love since August 2015.  
 
