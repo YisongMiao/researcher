@@ -32,7 +32,7 @@ My long-term goal is to push the research boundary of interaction between AI and
 - Conversational Recommendation.
   Project webpage: [here](http://wing.comp.nus.edu.sg/?page_id=1039)  
 
-### Discourse and Lexical Semantics
+### Computational Discourse and Lexical Semantics
 
 - Contextual Lexical Relation.
 - Implicit Discourse Relation Recognition.  
