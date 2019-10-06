@@ -7,7 +7,7 @@ nav:
 #    link: "/researcher/"
 #  - name: "Resume"
 #    link: "resume.pdf"
- - name: "UCMW"
+ - name: "UCMW Project"
    link: "UCMW/index"
 
 #theme: jekyll-theme-cayman
