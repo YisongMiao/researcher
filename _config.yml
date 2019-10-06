@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://yisong.me"
-baseurl: "/researcher"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
