@@ -2,18 +2,6 @@ title: Yisong Miao 苗屹松
 url: "https://yisong.me"
 #baseurl: "/researcher"
 
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-# footer: yes
-
-
-sass:
-    style: compressed
-    sass_dir: _sass
-
 # nav:
 #  - name: "About"
 #    link: "/researcher/"
@@ -25,3 +13,11 @@ sass:
 #theme: jekyll-theme-cayman
 #remote_theme: ankitsultana/researcher@gem
 #theme: ankitsultana/researcher@gem
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
