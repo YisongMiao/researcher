@@ -68,7 +68,10 @@ Coming Soon.
 
 <body>
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8" width="20" height="20"></script> -->
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8"></script> -->
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8&co=1cb2f2&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+
 </body>
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
