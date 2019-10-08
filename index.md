@@ -20,6 +20,8 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 # Research Interest
 
+> Let's push the boundary.
+
 <!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
 
 ## Webpage Classification
