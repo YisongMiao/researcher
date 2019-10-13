@@ -43,7 +43,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
-- We have One paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation!
+- We have One paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%, it is my first published work!
 
 ---
 
