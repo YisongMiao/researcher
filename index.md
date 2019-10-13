@@ -41,13 +41,15 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 # Publications
 
+> If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
+
 Coming Soon.
 
 ---
 
 # Education
 
-<!-- > I never let school interfere with my education. -- Mark Twain -->
+> I never let school interfere with my education. -- Mark Twain
 
 2014-2018, Bachelor of Engineering in Computer Science. <br>
 **Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
@@ -58,9 +60,9 @@ Coming Soon.
 
 # URL Link to my friends
 
-<!-- > *When Voldmolt is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter -->
+> *When Voldemort is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter
 
-- [Ms. Xin Wang](wangxinalice.com) is not only my girlfriend, but also my best friend. She is now an investment associate with [Prosperity Investment](http://www.cgpinvestment.com) based in Beijing, sha has broad investment interest in the AI industry and AI-enpowered traditional industry. She earned dual degree in Bachelor of Law and English Literature from [UIBE](http://www.uibe.edu.cn) in 2017. We are in love since August 2015, the goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals.
+- [Ms. Xin Wang](https://wangxinalice.com) is not only my girlfriend, but also my best friend. She is now an investment associate with [Prosperity Investment](http://www.cgpinvestment.com) based in Beijing, sha has broad investment interest in the AI industry and AI-enpowered traditional industry. She earned dual degree in Bachelor of Law and English Literature from [UIBE](http://www.uibe.edu.cn) in 2017. We are in love since August 2015, the goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals.
 
 - [Zek Chang](https://twitter.com/zekchang) is the founder of [Guduo](http://www.guduokeji.com/), a technical start-up company which solves general software engineering tasks as an intelligent outsourcing problem. Zek and me are both emotional men, we have similar taste in tech, music and arts.  
 
