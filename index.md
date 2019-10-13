@@ -62,7 +62,7 @@ Coming Soon.
 
 > *When Voldemort is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter
 
-- [Ms. Xin Wang](https://wangxinalice.com) is not only my girlfriend, but also my best friend. She is now an investment associate with [Prosperity Investment](http://www.cgpinvestment.com) based in Beijing, sha has broad investment interest in the AI industry and AI-enpowered traditional industry. She earned dual degree in Bachelor of Law and English Literature from [UIBE](http://www.uibe.edu.cn) in 2017. We are in love since August 2015, the goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals.
+- [Ms. Xin Wang](https://wangxinalice.com) is not only my girlfriend, but also my best friend. She is now an investment associate with [Prosperity Investment](http://www.cgpinvestment.com) based in Beijing, sha has broad investment interest in the AI industry and AI-empowered traditional industry. She earned dual degree in Bachelor of Law and English Literature from [UIBE](http://www.uibe.edu.cn) in 2017. We are in love since August 2015, the goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals.
 
 - [Zek Chang](https://twitter.com/zekchang) is the founder of [Guduo](http://www.guduokeji.com/), a technical start-up company which solves general software engineering tasks as an intelligent outsourcing problem. Zek and me are both emotional men, we have similar taste in tech, music and arts.  
 
