@@ -57,7 +57,7 @@ I believe this project is fun, and impactful. Upon accomplished, it will not onl
 
 
 ## Moments
-[191020-191026](moments/191020-191026)
+- [191020-191026](moments/191020-191026)
 
 
 <br>
