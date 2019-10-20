@@ -2,7 +2,12 @@
 
 [Link to Yisong's Personal website ](http://www.yisong.me/)
 
-This project is conducted purely out of my personal interest. 
+
+## Moments
+- [191020-191026](moments/191020-191026)
+
+## Introduction
+This project is initiated purely out of my personal interest. 
 
 The first intuition is to provide a solution to the long-distance relationship I have with Xin. I want her to enjoy this relationship as if we are *physically* together: be able to see the surroundings of mine, to breathe the humanity around me, to sense the happiness and pain of mine, basically she can *sync* with me.
 
@@ -11,7 +16,6 @@ I later realized this idea resonates with what Ray Dalio claims in *Principle*, 
 Another significance is that it can leads to better time management: when we use UCMW to look back, we will have a sense how we distribute our time/energy/passion, and learn from our past expereince.
 
 Therefore I propose a system that can seamlessly achieve following two goals.
-
 
 
 ## Goal 1. Fundamental
@@ -54,10 +58,6 @@ Yisong is thinking about following steps...
 If you're interested to work on this project with me, and be **co-dreamers** with  me, don't hesitate to contact me via email! [email address](miaoyisong@gmail.com)
 
 I believe this project is fun, and impactful. Upon accomplished, it will not only provide a bridge for thousands of people to connect their friends, but also give us a chance to do a self-UCMW :D
-
-
-## Moments
-- [191020-191026](moments/191020-191026)
 
 
 <br>
