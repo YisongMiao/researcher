@@ -8,7 +8,9 @@ nav:
 #  - name: "Resume"
 #    link: "resume.pdf"
  - name: "UCMW Project"
-   link: "UCMW/index"
+   link: "https://yisong.me/UCMW/index"
+ - name: "Go back to the homepage"
+   link: "https://yisong.me"
 
 #theme: jekyll-theme-cayman
 #remote_theme: ankitsultana/researcher@gem
