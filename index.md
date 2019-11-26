@@ -24,15 +24,15 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 <!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
 
-## Webpage Classification
+## Webpage Classification -- Bachelor thesis
 - Webpage classification using URLs only.
 
-## Conversational AI
+## Conversational AI -- Master thesis
 
 - Conversational Recommendation.
   Project webpage: [here](http://wing.comp.nus.edu.sg/?page_id=1039)  
 
-## Computational Discourse and Lexical Semantics
+## Computational Discourse and Lexical Semantics -- Ongoing project
 
 - Contextual Lexical Relation.
 - Implicit Discourse Relation Recognition.  
