@@ -47,7 +47,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 **Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems**
 Wenqiang Lei, Xiangnan He, **Yisong Miao**, Qingyun Wu, Richang Hong, Min-Yen Kan & Tat-Seng Chua
-WSDM 2020 (Full, Accept rate: 15%) [PDF]()
+WSDM 2020 (Full, Accept rate: 15%) [PDF](www.yisong.me/publications/wsdm20-EARS.pdf)
 
 ---
 
