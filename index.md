@@ -45,6 +45,10 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 - We have One paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%, it is my first published work!
 
+**Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems**
+Wenqiang Lei, Xiangnan He, **Yisong Miao**, Qingyun Wu, Richang Hong, Min-Yen Kan & Tat-Seng Chua
+WSDM 2020 (Full, Accept rate: 15%) [PDF]()
+
 ---
 
 # Education
