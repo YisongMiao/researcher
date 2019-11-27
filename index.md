@@ -24,10 +24,10 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 <!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
 
-## Webpage Classification -- Bachelor thesis
+## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only.
 
-## Conversational AI -- Master thesis
+## Master thesis -- Conversational AI
 
 - Conversational Recommendation.
   Project webpage: [here](http://wing.comp.nus.edu.sg/?page_id=1039)  
