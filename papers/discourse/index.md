@@ -18,3 +18,4 @@
 
 ## Text Coherence
 
+- What excludes an Alternative in Coherence Relations? Bonnie Webber. IWCS'13 [Local Copy](files/W13-0124.pdf)
