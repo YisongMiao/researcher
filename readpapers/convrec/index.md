@@ -7,3 +7,8 @@
 - An Visual Dialog Augmented Interactive Recommender System. Tong Yu, Yilin Shen, and Hongxia Jin. SIGKDD'19 [local copy](files/kdd19-visual-interact.pdf)
 - Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems Wenqiang Lei, Xiangnan He*, Yisong Miao, Qingyun Wu, Richang Hong, Min-Yen Kan & Tat-Seng Chua WSDM'2020 [local copy](files/wsdm20-EAR.pdf)
 
+
+
+
+
+Going to other reading lists: [Link](https://yisong.me/readpapers)
