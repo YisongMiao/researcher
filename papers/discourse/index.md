@@ -19,3 +19,7 @@
 ## Text Coherence
 
 - What excludes an Alternative in Coherence Relations? Bonnie Webber. IWCS'13 [Local Copy](files/W13-0124.pdf)
+-  Modeling Local Coherence: An Entity-Based Approach. Regina Barzilay, Marella lapata. CL'08  [Local Copy](files/coherence.pdf)
+- Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach. Shafiq Joty, Muhammad Tasnim Mohiuddin, Dat Tien Nguyen. ACL'18 [Local Copy](files/P18-1052.pdf)
+- Using Lexical Chains for Text Summarization. Regina Barzilay and Michael Elhadad. Intelligent Scalable Text Summarization'97 [Local Copy](files/chain-sum.pdf)
+- 
