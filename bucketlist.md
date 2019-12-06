@@ -29,6 +29,14 @@
 
 ---
 
+## Family
+
+- Buy a nice car for my father.
+- Buy a new iphone for my mom every two years.
+- Play badminton with my parents five times every year.
+
+---
+
 ## My Relationship with Xin
 
 - Visit Japan with [Xin Wang](https://wangxinalice.com) by the end of 2020.12.31.
