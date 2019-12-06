@@ -39,4 +39,3 @@ Going to other reading lists: [Link](https://yisong.me/readpapers)
 I like this work a lot, because it tells the intrinsic properties of their model and their relation with other important concept. For example:
 
 > We hypothesize that the sequence of discourse role transitions in a coherent text provides clues that distinguish it from an incoherent text. The discourse role matrix thus provides the foundation for com- puting such role transitions, on a per term basis. In fact, each column of the matrix corresponds to a lexical chain (Morris and Hirst, 1991) for a partic- ular term across the whole text. The key differences from the traditional lexical chains are that our chain nodes’ entities are simplified (they share the same stemmed form, instead being connected by WordNet relations), but are further enriched by being typed with discourse relations. 
-
