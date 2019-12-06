@@ -17,7 +17,7 @@
 
 
 - Open a start-up company based on my research output (by far, it seems to be based on conversation system, recommender system, etc...)
-- Publish one paper in top conference / journal on computational econ/investment, co-authored with [Xin Wang](https://wangxinalice.com)
+- Publish one paper in top conference / journal on computational economics / smart investment strategy making, co-authored with [Xin Wang](https://wangxinalice.com).
 
 
 
@@ -30,7 +30,9 @@
 
 - Visit Japan with [Xin Wang](https://wangxinalice.com) by the end of 2020.12.31.
 - Compose a song for [Xin Wang](https://wangxinalice.com)  and popularize it for 100K hearing.
-- OOXX (i.e. Kiss and Hug) [Xin Wang](https://wangxinalice.com) on a top of a mountain summit.
+- OOXX (i.e. Kiss and Hug) with [Xin Wang](https://wangxinalice.com) at a mountain summit (preferrably a snow mountain).
+- OOXX (i.e. Kiss and Hug) with [Xin Wang](https://wangxinalice.com) at a classic castle in U.K.
+- Give birth to 2 children with [Xin Wang](https://wangxinalice.com), one named Tiantian (天天, means naive in Chinese), another named Zhenzhen (真真, means honest in Chinese)
 
 
 
