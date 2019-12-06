@@ -35,9 +35,9 @@
 
 - Compose a song for [Xin Wang](https://wangxinalice.com)  and popularize it for 100K hearing.
 - OOXX (i.e. Kiss and Hug) with [Xin Wang](https://wangxinalice.com) at a mountain summit (preferrably a snow mountain).
-- Give birth to one child with [Xin Wang](https://wangxinalice.com), named Tiantian (天天, means naive in Chinese)
+- Give birth to one child with [Xin Wang](https://wangxinalice.com), named Tiantian (天天, means *naive* in Chinese)
 - OOXX (i.e. Kiss and Hug) with [Xin Wang](https://wangxinalice.com) at a classic castle in U.K.
-- Give birth to another child with [Xin Wang](https://wangxinalice.com), named Zhenzhen  (真真, means honest in Chinese)
+- Give birth to another child with [Xin Wang](https://wangxinalice.com), named Zhenzhen  (真真, means *honest* in Chinese)
 
 ---
 
