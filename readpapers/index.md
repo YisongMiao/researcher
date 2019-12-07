@@ -17,8 +17,8 @@ I list the representative papers close to my research interest in this dossier.
 Now I have following reading lists:
 
 - Conversational Recommendation [Link](convrec)
-
 - Discourse [Link](discourse)
+- Text Representation [Link](text-repr)
 
 
 
