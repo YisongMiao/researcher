@@ -35,6 +35,7 @@
 - Buy a nice car for my father.
 - Buy a new iphone for my mom every two years.
 - Play badminton with my parents five times every year.
+- Help my father quit smoking.
 
 ---
 
