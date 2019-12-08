@@ -23,6 +23,9 @@
 - Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach. Shafiq Joty, Muhammad Tasnim Mohiuddin, Dat Tien Nguyen. ACL'18 [Local Copy](files/P18-1052.pdf)
 - Using Lexical Chains for Text Summarization. Regina Barzilay and Michael Elhadad. Intelligent Scalable Text Summarization'97 [Local Copy](files/chain-sum.pdf)
 - Automatically Evaluating Text Coherence Using Discourse Relations, Ziheng Lin, Hwee Tou Ng and Min-Yen Kan ACL'11 [Local Copy](files/acl2011-lin.pdf)
+- Extractive Summarization of a Document using Lexical Chains. Chirantana Mallick, Madhurima Dutta, Ajit Kumar Das, Apurba Sarkar, and Asit K Das. Springer. [Local copy](files/lexicalChain.pdf)
+- A Cross-Domain Transferable Neural Coherence Model. Peng Xu, Hamidreza Saghir, Jin Sung Kang, Teng Long, Avishek Joey Bose, Yanshuai Cao, Jackie Chi Kit Cheung. ACL'19 [Local copy](files/neural-coherence.pdf)
+- Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach. Tasnim Mohiuddin, Shafiq Joty, Dat Tien Nguyen. ACL'18 [Local copy](files/neural-entity-grid.pdf)
 
 
 
