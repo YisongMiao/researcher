@@ -17,6 +17,7 @@
 - Open a start-up company based on my research output (by far, it seems to be based on conversation system, recommender system, etc...)
 
 - Publish one paper in top conference / journal on computational economics / smart investment strategy making, co-authored with [Xin Wang](https://wangxinalice.com).
+- Teach at rural school (Primary / Middle School) for 10 hours.
 
 ---
 
@@ -40,12 +41,19 @@
 ## My Relationship with Xin
 
 - Visit Japan with [Xin Wang](https://wangxinalice.com) by the end of 2020.12.31.
+- See aurora with [Xin Wang](https://wangxinalice.com) by the end of 2021.12.31.
 
 - Compose a song for [Xin Wang](https://wangxinalice.com)  and popularize it for 100K hearing.
 - OOXX (i.e. Kiss and Hug) with [Xin Wang](https://wangxinalice.com) at a mountain summit (preferrably a snow mountain).
 - Give birth to one child with [Xin Wang](https://wangxinalice.com), named Tiantian (天天, means *naive* in Chinese)
 - OOXX (i.e. Kiss and Hug) with [Xin Wang](https://wangxinalice.com) at a classic castle in U.K.
 - Give birth to another child with [Xin Wang](https://wangxinalice.com), named Zhenzhen  (真真, means *honest* in Chinese)
+
+---
+
+## Fitness
+
+- Comeback to 75Kg.
 
 ---
 
