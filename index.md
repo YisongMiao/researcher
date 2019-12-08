@@ -18,7 +18,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 
 
-I have maintained a few reading list: [Link](readpapers)
+I have maintained a few reading list within my research interest: [Link](readpapers)
 
 I also have a bucketlist of 101 things to do before death: [Link](bucketlist)
 
