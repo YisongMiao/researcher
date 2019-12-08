@@ -56,7 +56,7 @@ Yisong is thinking about following steps...
 
 > I believe the dreamers come first. -- Jeff Bezos.
 
-If you're interested to work on this project with me, and be **co-dreamers** with  me, don't hesitate to contact me via email! [email address](miaoyisong@gmail.com)
+If you're interested to work on this project with me, and be **co-dreamers** with  me, don't hesitate to contact me via email! [email address](mailto:miaoyisong@gmail.com)
 
 I believe this project is fun, and impactful. Upon accomplished, it will not only provide a bridge for thousands of people to connect their friends, but also give us a chance to do a self-UCMW :D
 
@@ -64,3 +64,4 @@ I believe this project is fun, and impactful. Upon accomplished, it will not onl
 <br>
 <br>
 <br>
+
