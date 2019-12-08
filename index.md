@@ -16,6 +16,12 @@ I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~k
 My office is on level 5 of AS6 building. <br><br>
 My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts), and answer a basic question: how we human perceive beauty. To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest.
 
+
+
+I have maintained a few reading list: [Link](readpapers)
+
+I also have a bucketlist of 101 things to do before death: [Link](bucketlist)
+
 ---
 
 # Research Interest
@@ -78,4 +84,3 @@ WSDM 2020 (Full, Accept rate: 15%)   [PDF](https://www.yisong.me/publications/ws
 </body>
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
-
