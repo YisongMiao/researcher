@@ -26,6 +26,7 @@
 - Extractive Summarization of a Document using Lexical Chains. Chirantana Mallick, Madhurima Dutta, Ajit Kumar Das, Apurba Sarkar, and Asit K Das. Springer. [Local copy](files/lexicalChain.pdf)
 - A Cross-Domain Transferable Neural Coherence Model. Peng Xu, Hamidreza Saghir, Jin Sung Kang, Teng Long, Avishek Joey Bose, Yanshuai Cao, Jackie Chi Kit Cheung. ACL'19 [Local copy](files/neural-coherence.pdf)
 - Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach. Tasnim Mohiuddin, Shafiq Joty, Dat Tien Nguyen. ACL'18 [Local copy](files/neural-entity-grid.pdf)
+- An introduction to functional grammar. M.A.K. Halliday [Local copy](files/intro-functional-grammar.pdf)
 
 
 

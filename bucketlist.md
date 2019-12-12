@@ -39,6 +39,13 @@
 
 ---
 
+## Friendship
+
+- Read the math book translated by Shiyang Wang.
+- Watch an NBA game with Ruming Zhen
+
+---
+
 ## My Relationship with Xin
 
 - Visit Japan with [Xin Wang](https://wangxinalice.com) by the end of 2020.12.31.
@@ -55,13 +62,6 @@
 ## Fitness
 
 - Comeback to 75Kg.
-
----
-
-## Friendship
-
-- Read the math book translated by Shiyang Wang.
-- Watch an NBA game with Ruming Zhen.
 
 ---
 
