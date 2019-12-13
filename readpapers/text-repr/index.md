@@ -5,6 +5,10 @@
 1. GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding. ICLR'19 Alex Wang1 , Amanpreet Singh1 , Julian Michael2 , Felix Hill3 , Omer Levy2 & Samuel R. Bowman1 [Local copy](files/glue.pdf)
 2. Multi-Task Deep Neural Networks for Natural Language Understanding. ACL'19 Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao. [Local copy](files/MT-DNN.pdf)
 3. Predicting ConceptNet Path Quality Using Crowdsourced Assessments of Naturalness. Yilun Zhou, Steven Schockaert, Julie A. Shah. [Local copy](files/www19-conceptnet.pdf)
+4. Revealing the Dark Secrets of BERT. Olga Kovaleva, Alexey Romanov, Anna Rogers, Anna Rumshisky [Local copy](files/D19-1445.pdf)
+5. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova. [Local copy](files/N19-1423.pdf)
+
+
 
 ---
 
