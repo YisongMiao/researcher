@@ -9,7 +9,6 @@
 5. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova. [Local copy](files/N19-1423.pdf)
 6. Linguistic Knowledge and Transferability of Contextual Representations Nelson F. Liu, Matt Gardner, Yonatan Belinkov, Matthew E. Peters, Noah A. Smith. NAACL'19.  [Local copy](files/N19-1112.pdf)
 7. LSTMs Exploit Linguistic Attributes of Data. Nelson F. Liu, Omer Levy, Roy Schwartz, Chenhao Tan, Noah A. Smith. ACL'18 Proceedings of the 3rd Workshop on Representation Learning for NLP. [Local copy](files/W18-3024.pdf)
-8. 
 
 
 
