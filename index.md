@@ -51,7 +51,7 @@ I also have a bucketlist of 101 things to do before death: [Link](bucketlist)
 
 - We have One paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%, it is my first published work!
 
-Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [PDF](https://yisong.me/publications/wsdm20-EARS.pdf) [Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)
+[1] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [PDF](https://yisong.me/publications/wsdm20-EARS.pdf) [Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)
 
 ---
 
