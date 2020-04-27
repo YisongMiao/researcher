@@ -22,7 +22,9 @@ I have maintained a few reading list within my research interest: [Link](readpap
 
 I also have a bucketlist of 101 things to do before death: [Link](bucketlist)
 
-Some External Links: [Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yisongmiao/) [GitHub](https://github.com/YisongMiao/) [Email: miaoyisong AT gmail.com](yisong.me) [Twitter](https://twitter.com/yisongmiao) [Skype](live:miaoyisong)
+Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)] [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)] [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)] [[Skype](live:miaoyisong)] 
+
+[Email] I use gmail, the username is miaoyisong
 
 ---
 
