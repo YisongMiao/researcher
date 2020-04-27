@@ -28,11 +28,9 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 ---
 
-# Research Interest
+# Research Experiences
 
-> Let's push the boundary.
-
-<!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
+> A person's character isn't determined by how he or she enjoys victory but rather how he or she endures defeat. -- House of Cards. 
 
 ## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only.
@@ -40,7 +38,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 ## Master thesis -- Conversational AI
 
 - Conversational Recommendation.
-  Project webpage: [here](http://wing.comp.nus.edu.sg/?page_id=1039)  
+  Project webpage: [here](www.ear-conv-rec.github.io)  
 
 ## Computational Discourse and Lexical Semantics -- Ongoing project
 
