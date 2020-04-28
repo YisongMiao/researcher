@@ -68,7 +68,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 ---
 
-# URL Links to my friends who're not in my academic community
+# URL Links to my friends who're not in NLP/RecSys academic community
 
 > *When Voldemort is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter
 
