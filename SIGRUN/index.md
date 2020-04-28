@@ -1,44 +1,46 @@
-# SIGRUN -- Special Interest Group for Running
+# SIGRUN -- Special Interest Group for Running 跑步特别兴趣小组
 
-## Organization
+Website: https://yisong.me/SIGRUN/
 
-General Chair: [Yisong Miao](www.yisong.me)
+## Organization 组织
 
-Financial Chair: Xinyi Shi
+主席: [Yisong Miao](www.yisong.me)
 
-Web Chair: TBD
+金融主席: Xinyi Shi
 
-Media Chair: TBD
+网络主席: 待定
 
-
-
-## Call for Participation
-
-### Basics
-
-- Duration: May 11th -- May 31st (3 weeks)
-- Team of maximum of two. Single person is also accepted. 
-
-- Each person 3 running day in a week, at least 3.5 Km each time.
-- You receive your money-back in a weekly basis. (i.e. 100 RMB back at the end of week if you accomplish 3x3.5km, and 0 RMB back if you don't)
-
-### Dice Rolling!
-
-- 🎲 Dice Rolling is back!!! It is one of the favorite activity in past events. Everyday, the person who achieves the longest run is possible to add more distance to another group. 
-- The rolling rule is interesting. First, the player claims a number **X** in range (1, 18). Then he roll the dice 3 times. If the sum of 3 rolling is larger than **X**, then he can add 0.2* **X** Kms to another group. For example, Yisong claims X = 16, three time the rolling is [5, 6, 6], which sums to 17. Since 17 > 16, he can add 0.2 * 17 = 3.4 Km to another group. However, if Yisong's rolling is [1, 1, 1], which sums to 3, he has no chance to add distance to other groups. 
-- All group members can share the responsibility to finish the added distance (e.g. 3.4 km). 
--  You can use a 4-th or 5-th run to finish the added distance, it is fine that you only run 3.4  which is less than 3.5.
-
-### Bonus and Rankings
-
-- Bonus sharing is still based on the total distance, similar to Xinyi's rule last time, e.g., 7 perple enrolled, the share that 1st guy will receive is: ` 7 / (1 + 2 + 3 + ... + 7)`
-- However, in order to encourage competitive running, reward will be given to: (1) the person who achives the single longest run; (2) the person who added the longest distance to other group through rolling the dice! For both guys in (1) and (2), his ranking will be promoted by `1`. For example, if Yisong achieves the single longest run and ranks only 3rd, he will be promoted to 2nd. This reward can be used by one person for 2 times (i.e., promoted by 2).
+媒体主席: 待定
 
 
 
+## Call for Participation 呼吁参加
+
+### Basics 基础
+
+- 时间: May 11th -- May 31st (3 weeks)
+- 每一队最多2人，担任也可以
+
+- 每个人一周跑步3天，每天至少3.5公里。
+- 您每周都会收到退款。（例如，如果您完成3x3.5公里，则在周末结束时返还100元；否则，则返还0元）
+
+### 骰子滚动🎲！
+
+- 🎲 骰子滚动回来了!!! 它是过去事件中最喜欢的活动之一。每天，跑得最长的人有机会增加另一队的距离。
+- 滚动规则很有趣。首先，玩家要求在范围（1、18）中输入数字 **X。**然后他滚动骰子3次。如果3个滚动的总和大于**X**，那么他可以将0.2 * **X** Kms 添加到另一个组。例如，Yisong声称X = 16，他然后滚动骰子，得到[5，6，6]，总计为17。由于17> 16，他可以将0.2 * 17 = 3.4 Km添加到另一组中。但是，如果Yisong的滚动值为[1，1，1]，总和为3，小于16，则他没有机会增加与其他组的距离。
+- 所有小组成员都有责任完成增加的距离（例如3.4公里）。
+-  您可以使用第4或第5次跑步来完成增加的距离，只运行3.4（小于3.5）是可以的。
+
+### Bonus and Rankings 奖金与排名
+
+- 奖金分享仍基于总距离，类似于上次Xinyi的规则，例如，参加7人，第一个人将获得的份额为：`7 /（1 + 2 + 3 +…+ 7）`
+- 但是，为鼓励竞争性跑步，将给予以下奖励：（1）达到最长单次跑步的人；（2）通过滚动骰子给其他队增加距离最长的人！对于（1）和（2）中的两个人，他的排名都会由提升`1`。例如，如果Yisong达到了最长的单次成绩并且仅排名第3，他将被提升为第2名。另外，此奖励可被一个人使用2次（即提升2名）。
 
 
-## Leaderboard
+
+
+
+## Leaderboard 排行榜
 
 |                 | Total Distance * | Average Speed # | Longest Run # | Rolling Dice Distance Launched # | Ranking |
 | --------------- | ---------------- | --------------- | ------------- | -------------------------------- | ------- |
@@ -50,4 +52,3 @@ Media Chair: TBD
 | Jiayan Zhang #  |                  |                 |               |                                  |         |
 
 "#": They haven't officially registered. 
-
