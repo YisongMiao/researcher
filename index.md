@@ -10,9 +10,7 @@ layout: default
 
 # About
 
-Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.
-
-I'm now a second-year master student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/). <br>
+Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm now a second-year master student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/). <br>
 I'm affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://www.wing.comp.nus.edu.sg/). <br>
 I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home). <br>
 My office is on level 5 of AS6 building. <br><br>
