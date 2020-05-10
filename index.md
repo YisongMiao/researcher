@@ -18,6 +18,8 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 
 
+My CV is here: [Link](yisong-cv.pdf)
+
 I have maintained a few reading list within my research interest: [Link](readpapers)
 
 Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] 
