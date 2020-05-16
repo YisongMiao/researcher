@@ -51,7 +51,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
-- We have One paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%, it is my first published work!
+- We have our first paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%, it is my first published work!
 - [May 16th 2020] <span style="color:red">New!</span> I have one more paper co-authored with [Dr. Lei](https://sites.google.com/view/wenqianghome/home), [Dr. He](http://staff.ustc.edu.cn/~hexn/), and Gangyi accepted to [KDD 2020](https://www.kdd.org/kdd2020/). This work is in line with our WSDM 2020 work on conversational recommendation. Thank you for all your support!
 
 [1] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [PDF](https://yisong.me/publications/wsdm20-EARS.pdf) [Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)
