@@ -56,6 +56,8 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 [1] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)]
 
+[2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). Resources To Come.
+
 ---
 
 # Education
