@@ -21,7 +21,7 @@ I hope, at the end of the day, this note will demonstrate each small step toward
 
 
 
-As usual, I have a pointer as the start: [Dr. Shannon's talk on Creative Thinking.]([http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html](http://www1.ece.neu.edu/~naderi/Claude Shannon.html))
+As usual, I have a pointer as the start: [Dr. Shannon's talk on Creative Thinking.](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html)
 
 
 
