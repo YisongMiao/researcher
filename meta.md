@@ -37,4 +37,23 @@ As usual, I have a pointer as the start: [Dr. Shannon's talk on Creative Thinkin
 
 [Jan 2020] [With Wenqiang] 作为一个researcher, 最重要的是我们的思想。“因思想生光华”
 
+[Jan 2020] [With Wenqiang] I hope you can oppose me more on research questions.
+
 [May 2020] [Elon Musk] Sometimes we just need to distance ourselves to see things clearer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
