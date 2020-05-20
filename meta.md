@@ -1,6 +1,6 @@
 ## Meta Research
 
-I'm Yisong, a junior researcher. Most of my professional time is spent on (1) finding a problem; (2) solving a problem. However, what if we consider *research* as essentially a research problem? We have distilled following research questions for it:
+I'm Yisong, a junior researcher. Most of my professional time is spent on (1) finding a problem; (2) solving a problem. However, what if we consider *research* as essentially a research problem? I have distilled following research questions for it:
 
 - How to discover impactful research ideas?
 - How to formulate a phenomenon into a researchable task?
