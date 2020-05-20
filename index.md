@@ -18,13 +18,9 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 
 
-My CV is here: [Link](yisong-cv.pdf)
+My CV is here: [Link](yisong-cv.pdf)<br>I also have a note for *"Meta Research"*, recording the most fundamental methods (by me and my mentors) towards a good researcher: [Link](meta). I hope, at the end of the day, it would be the most valuable treasure.<br>Learning from my graduate study advisor Prof Min ([his log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html)), I also keep a progress log: [Link](progress-log) <br>I have maintained a few reading list within my research interests: [Link](readpapers)<br>Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>
 
-I have maintained a few reading list within my research interest: [Link](readpapers)
-
-Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] 
-
-[Email] I use gmail, the username is miaoyisong
+[Email] I use GMAIL, the username is miaoyisong
 
 ---
 
