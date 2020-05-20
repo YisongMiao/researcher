@@ -5,7 +5,7 @@ I'm Yisong, a junior researcher. Most of my professional time is spent on (1) fi
 - How to discover impactful research ideas?
 - How to formulate a phenomenon into a researchable task?
 - What experiment should we do  in order to support our claim?
-- How to do meaninful discussions?
+- How to do meaninful discussions to inspire further study?
 
 I define this topic as *"Meta Research"*.
 
@@ -21,7 +21,9 @@ I hope, at the end of the day, this note will demonstrate each small step toward
 
 
 
-As usual, I have a pointer to start: [Dr. Shannon's talk on Creative Thinking.]([http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html](http://www1.ece.neu.edu/~naderi/Claude Shannon.html))
+As usual, I have a pointer as the start: [Dr. Shannon's talk on Creative Thinking.]([http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html](http://www1.ece.neu.edu/~naderi/Claude Shannon.html))
+
+
 
 [Jan 2020] [With Wenqiang] 作为一个researcher, 最重要的是我们的思想。“因思想生光华”
 
