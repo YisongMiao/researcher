@@ -65,4 +65,3 @@ Skills:
 
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
-
