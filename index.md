@@ -18,11 +18,11 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 
 
-My CV is here: [Link](yisong-cv.pdf)
+My CV is here: [PDF](yisong-cv.pdf)
 
-I also have a note for *"Meta Research"*, recording the most fundamental methods (by me and my mentors) towards a good researcher: [Link](meta). I hope, at the end of the day, it would be the most valuable treasure.
+I also have a note for *"Meta Research"*, recording the most fundamental methods (by me and my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.
 
-Learning from my graduate study advisor Prof Min ([his log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html)), I also keep a progress log: [Link](progress-log) 
+Learning from my graduate study advisor Prof Min ([his log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html)), I also keep a [progress log](progress-log) 
 
 I have maintained a few reading list within my research interests: [Link](readpapers)
 
