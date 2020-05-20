@@ -4,7 +4,7 @@ I'm Yisong, a junior researcher. Most of my professional time is spent on (1) fi
 
 - How to discover impactful research ideas?
 - How to formulate a phenomenon into a researchable task?
-- What experiment should we do  in order to support our claim?
+- What experiment should we do in order to support our claim?
 - How to do meaninful discussions to inspire further study?
 
 I define this topic as *"Meta Research"*.
