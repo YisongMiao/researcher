@@ -1,4 +1,4 @@
-# SIGRUN -- Special Interest Group for Running 跑步特别兴趣小组
+# SIGRUN -- Special Interest Group for Running 跑步特别兴趣小组 夏日特辑 🌃
 
 Website: https://yisong.me/SIGRUN/
 
