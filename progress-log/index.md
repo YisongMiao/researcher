@@ -1,3 +1,3 @@
 # My Progress Log
 
-0521: [link](0521)
+May 21 2020: [link](0521)
