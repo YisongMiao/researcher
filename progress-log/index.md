@@ -6,3 +6,6 @@ May 21: [link](0521)
 
 May 25 - May 31: [link](0531)
 
+## June 2020
+
+June 1st: [Link](0601)
