@@ -6,9 +6,6 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-.label-short {
-    background-color: #d27979;
-}
 
 <span class="label label-short">short</span>
 
