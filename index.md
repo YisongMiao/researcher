@@ -56,7 +56,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
-I use these contextual labels to organize my publications: (Here is a[Tutorial to how to make these contextual labels](tutorial_contextual_label) in Html and Jekyll)
+I use these contextual labels to organize my publications: (Here is a[Tutorial on how to make these contextual labels](tutorial_contextual_label) in Html and Jekyll)
 - <span class="label label-blue">recommender system</span> 
 - <span class="label label-yellow">conversational recommender system</span> 
 - <span class="label label-orange">ML / RL (Machine Learning and Reinforcement Learning)</span> 
