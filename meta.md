@@ -48,8 +48,7 @@ Skills:
 
 [May 2020] [Elon Musk] Sometimes we just need to distance ourselves to see things clearer.
 
-
-
+[June 2020] [Min] On presentation. Here are some keys... (1) You are the narrator of your slides, so make your speech and slides complementary. (2) Different level of abstractions. 1/3 contents for all people; another 1/3 contents for all people in your deprtment; and the last 1/3 for the expert in your area. 
 
 
 
