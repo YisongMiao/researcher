@@ -102,7 +102,6 @@ My friends, the following order is based on the time I found your URL, i.e. in a
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8&co=1cb2f2&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 
-<span class="label label-short">a label here</span>
 
 </body>
 
