@@ -10,4 +10,4 @@ May 25 - May 31: [link](0531)
 
 June 1st: [Link](0601)
 
-Week of June 27: [Link]()
+Week of June 27: [Link](0627)
