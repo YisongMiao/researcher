@@ -2,15 +2,19 @@
 
 Hey guys, I put my progress log in a reverse chronological order. The most recent ones have the highest rankings on the webpage.
 
+## August 2020
+
+Week of Aug 2: [Link](0802)
+
 
 
 
 
 ## July 2020
 
-I used an external software. 
+I used an external software to keep my logs in July. 
 
-Looking for better ways to transfer the logs here. (some privacy concerns...)
+I cannot find a better way to transfer the logs here (some privacy concerns...). Therefore I decide to go back to my website's original log taking. 
 
 
 
