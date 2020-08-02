@@ -4,6 +4,16 @@ Hey guys, I put my progress log in a reverse chronological order. The most recen
 
 
 
+
+
+## July 2020
+
+I used an external software. 
+
+Looking for better ways to transfer the logs here. (some privacy concerns...)
+
+
+
 ## June 2020
 
 Week of June 29: [Link](0629)
