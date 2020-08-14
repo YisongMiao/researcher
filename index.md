@@ -21,7 +21,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 
 
-My CV is here: [PDF](Yisong-cv-2020may-officialpubs.pdf)
+My CV is here: [PDF](Yisong-CV-2020-July.pdf)
 
 I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.
 
