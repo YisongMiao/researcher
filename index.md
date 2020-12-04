@@ -95,7 +95,7 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 
 - AAAI 2021, evaluated 2 research papers in NLP (dialogue track + discourse track). 
 
-  Disclosure: for the 2 papers, I reached a concensus with my mentod Dr. Lei and other reviewers on main quaility of the paper, despite I had further notes and advice. It might be an indicator that I am ready for Top Tier conference review now.
+  Disclosure: For the 2 papers, I reached a concensus with my mentod Dr. Lei and other reviewers on main quaility of the paper, despite I had further notes and advice. It might be an indicator that I am ready for top tier conferences review now.
 
 - AAAI 2020, evaluated 1 research paper in NLP (dialogue track).
 
