@@ -82,7 +82,7 @@ I use 🌟 to intuitively show my devotion and contribution to the paper.
 
 > Grow and help others grow. -- Anonymous
 
-Dear mate, if you are a Program Chair of Area Chair visiting my site, I would be very happy to be a reviewer for conference in following areas: IR/NLP/DM with their methods using ML/RL/DL.
+Dear mate, if you are a Program Chair or Area Chair visiting my site, I would be very happy to be a reviewer for conference in following areas: IR/NLP/DM with their methods using ML/RL/DL.
 
 I always read the papers multiple times (2-3 times) and wait a few days (1-2 days) to write down a careful review. I also try my best to give authors constructional advice. Do not hesitate to email me if you want me to serve as a PC in your conference! (email: miaoyisong * AT * gmail dot com)
 
