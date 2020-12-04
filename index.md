@@ -78,6 +78,26 @@ I use 🌟 to intuitively show my devotion and contribution to the paper.
 
 ---
 
+# Service
+
+> Grow and help others grow. -- Anonymous
+
+Dear mate, if you are a Program Chair of Area Chair visiting my site, I would be very happy to be a reviewer for conference in following areas: IR/NLP/DM with their methods using ML/RL/DL.
+
+I always read the papers multiple times (2-3 times) and wait a few days (1-2 days) to write down a careful review. I also try my best to give authors constructional advice. Do not hesitate to email me if you want me to serve as a PC in your conference! (email: miaoyisong * AT * gmail dot com)
+
+### Program Committee
+
+- NLPCC 2020, evaluated 2 research papers in NLP (dialogue track).
+- NAACL 2021, in progress.
+
+### Reviewer/Secondary Reviewer
+
+- AAAI 2021, evaluated 2 research papers in NLP (dialogue track + discourse track).
+- AAAI 2020, evaluated 1 research paper in NLP (dialogue track).
+
+---
+
 # Education
 
 > I never let school interfere with my education. -- Mark Twain
@@ -100,7 +120,7 @@ My friends, the following order is based on the time I found your URL, i.e. in a
 - [Junda Zhang](http://aheader.org) is the same batch of master student at SoC with me. We collaborated in [CS5228 Kaggle Competiton](https://kaggle.com/c/cs5228-article-category-prediction) and won the first-runner-up! [Code](https://github.com/YisongMiao/CS5228-project). Junda has vast interest in machine learning and deep learning systems.  
 - [Chaoren Li](http://chaoren-li.com) is a nice gentleman. He generously offered me his bedroom during my visit to the Bay Area in Spring 2020. He is now a software engineer leader at Google, solving major techinical problem with global impact!
 - [Dr. Zhen Wang, aka, 'zzzzzz'](http://joneswong.github.io/) is a gentleman I know in the Running Group. We later found we have many interests in common, including but not limited to WeChat stickers (Moer 萌二 and Molo 萌六). He is one of the most active replier to my sparkling thought thrown in the Running Group. He is currently an algorithm expert at Alibaba, Hangzhou. He is the author of [TransH](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8531) (a building block of KG research). Check out his sites for many interesting posts on ML and DM!
-- [Qingfeng Lan](https://lancelqf.github.io/) is a good friend of mine. I was lucky to be his dorm mate in [UCAS](https://english.cas.cn/) in AY 2015/16. Enjoying his books (e.g. [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)) and musics (e.g. [Li Chen 陈粒](https://zh.m.wikipedia.org/zh-hans/%E9%99%B3%E7%B2%92)) in evenings is one of the best college moments for me! He is a nice person and always helps others. He is the inaugural Editor-in-chief for an advice book (50+ articles) on how to apply for grad school, bringing significant help for alumni of UCAS (a new school). He is now a PhD student at [U of Alberta](https://www.ualberta.ca/index.html), focusing on RL research. He is the author of [Maxmin Q-learning (ICLR '20)](https://lancelqf.github.io/media/paper/maxmin2020.pdf). Check out his site for many interesting posts on tech and humanity!
+- [Qingfeng Lan](https://lancelqf.github.io/) is a good friend of mine. I was lucky to be his dorm mate in [UCAS](https://english.cas.cn/) in AY 2015/16. Enjoying his books (e.g. [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)) and music (e.g. [Li Chen 陈粒](https://zh.m.wikipedia.org/zh-hans/%E9%99%B3%E7%B2%92)) in evenings is one of the best college moments for me! He is a nice person and always helps others. He is the inaugural Editor-in-chief for an advice book (50+ articles) on how to apply for grad school, bringing significant help for alumni of UCAS (a new school). He is now a PhD student at [U of Alberta](https://www.ualberta.ca/index.html), focusing on RL research. He is the author of [Maxmin Q-learning (ICLR '20)](https://lancelqf.github.io/media/paper/maxmin2020.pdf). Check out his site for many interesting posts on tech and humanity!
 
 <body>
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8" width="20" height="20"></script> -->
