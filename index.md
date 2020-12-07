@@ -88,9 +88,9 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 
 ## Program Committee / Reviewer
 
-- NLPCC 2020, evaluated 2 research papers in NLP (dialogue track).
-- Invited by NAACL 2021, in progress.
-- Invited by ACL-IJCNLP 2021, in progress.
+- [Sometime 2019] NLPCC 2019, evaluated 2 research papers in NLP (dialogue track).
+- [Oct 22nd 2020] Invited by NAACL 2021, in progress.
+- [Dec 5th 2020] Invited by ACL-IJCNLP 2021, in progress.
 
 ## Secondary Reviewer
 
