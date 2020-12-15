@@ -35,7 +35,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 # Research Experiences
 
-> It's not about how much you earn, it's about how much you worth. -- Selicon Valley, HBO.
+> It's not about how much you earn, it's about how much you worth. -- Silicon Valley, HBO.
 
 ## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only.
