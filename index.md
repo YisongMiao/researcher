@@ -35,7 +35,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 # Research Experiences
 
-> A person's character isn't determined by how he or she enjoys victory but rather how he or she endures defeat. -- House of Cards. 
+> It's not about how much you earn, it's about how much you worth. -- Selicon Valley, HBO.
 
 ## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only.
