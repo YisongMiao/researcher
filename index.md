@@ -29,14 +29,14 @@ Learning from my graduate study advisor Prof Min ([Link to his log](https://www.
 
 I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)
 
-Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>[Email] I use GMAIL, the username is miaoyisong
+Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br><b>[Email]</b> I use Gmail, the username is miaoyisong
 
 ---
 
 # Research Experiences
 
 > It's not about how much you earn, it's about how much you worth. -- Silicon Valley, HBO.
-
+ 
 ## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only.
 
