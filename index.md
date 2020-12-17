@@ -36,7 +36,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 # Research Experiences
 
 > It's not about how much you earn, it's about how much you worth. -- Silicon Valley, HBO.
- 
+
 ## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only.
 
@@ -74,7 +74,7 @@ I use 🌟 to intuitively show my devotion and contribution to the paper.
 
 [2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). <span class="label label-blue">recommender system</span>  <span class="label label-yellow">conversational recommender system</span>  <span class="label label-green">knowledge graph</span>  <span class="label label-orange">ML / RL</span>  My Devotion: 🌟🌟🌟🌟 [[PDF]](https://arxiv.org/abs/2007.00194) [[Codes and Project Websites @ Github.io]](https://cpr-conv-rec.github.io/)
 
-[3] Wenqiang Lei\*, <u>Yisong Miao</u>\*, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) <span class="label label-purple">NLP</span> Resources to come.  \* Equal Contribution 
+[3] Wenqiang Lei, <u>Yisong Miao</u>, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) <span class="label label-purple">NLP</span> Resources to come.  My Devotion: 🌟🌟🌟🌟🌟
 
 ---
 
