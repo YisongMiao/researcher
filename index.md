@@ -31,7 +31,7 @@ I have maintained a few reading list within my research interests: [Link to read
 
 Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br><b>[Email]</b> I use Gmail, the username is miaoyisong
 
-If you are a junior from [Shaanxi Province, Singapore] or from [UCAS, NUS], and you want advice for starting a career in AI, **plz directly talk to me**. I am happy to help since we are under-represented groups, despite this talk will not lead to a mentorship (I am not ready for that).
+If you are a junior from [Shaanxi Province, Singapore] or from [UCAS, NUS], and you want advice for starting a career in AI, **fell free to directly talk to me**. I am happy to help since we are under-represented groups, despite this talk will not lead to a mentorship (I am not ready for that).
 
 ---
 
