@@ -25,7 +25,7 @@ My CV is here: [PDF](Yisong-CV-2020-July.pdf)
 
 I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.
 
-Learning from my graduate study advisor Prof Min ([Link to his log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html)), I also keep a [progress log](progress-log) for better time management. <br>**[Note on 30 Dec 2020]**, my progress log will be under one theme -- **In<sup>2</sup>** (<u>In</u>terpretable and <u>In</u>teractive NLP/IR/AI). This is the scientific contribution I plan for my thesis (2023 planned). I have 3 years to reverse engineer this plan.
+Learning from my graduate study advisor Prof Min ([Link to his log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html)), I also keep a [progress log](progress-log) for better time management. <br>**[Note on 30 Dec 2020]**, my progress log will be under one theme -- **Inter<sup>2</sup>** (<u>Inter</u>pretable and <u>Inter</u>active NLP/IR/AI). This is the scientific contribution I plan for my thesis (2023 planned). I have 3 years to reverse engineer this plan.
 
 I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)
 
