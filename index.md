@@ -25,17 +25,13 @@ I have maintained a few reading list within my research interests: [Link to read
 
 ### My Google Calendar:
 
-<center>
-
 <body>
-
-
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 </body>
 
-</center>
+
 
 **[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [this link for why?](why-not-mentor)).
 
