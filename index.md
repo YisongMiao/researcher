@@ -23,7 +23,7 @@ I strongly believe making AI systems interpretable and interactive is the key re
 
 I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)<br>I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.<br>Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] [Email: LastnameFirstname@gmail.com] <br>
 
-**[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [this link for why?](why-not-mentor)).
+### My Google Calendar:
 
 <body>
 
@@ -33,6 +33,8 @@ I have maintained a few reading list within my research interests: [Link to read
 
 </center>
 </body>
+
+**[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [this link for why?](why-not-mentor)).
 
 ---
 
