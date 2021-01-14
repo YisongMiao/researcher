@@ -13,29 +13,17 @@ layout: default
 
 # About
 
-Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm an incoming PhD student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/), starting Jan 2021. <br>
+Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm a 1st Year PhD student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/), starting Jan 2021. <br>
 During my master study, I was affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://wing.comp.nus.edu.sg/). <br>
 I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home). <br>
 My office is on level 5 of AS6 building.  <br><br>
-My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts). To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest. I wish UCMW can come true in 2030. 
+My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts). To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest. I wish UCMW can come true in 2030, I only write an annual reflection now.
 
-My CV is here: [PDF](Yisong-CV-2020-July.pdf).
+I strongly believe making AI systems interpretable and interactive is the key research problems for next few decades. This drives me study every day towards **Inter<sup>2</sup>** (<u>Inter</u>pretable and <u>Inter</u>active NLP/IR/AI). See my [progress log](progress-log), I draw much inspiration from [Min's log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html).
 
-I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.
-
-Learning from my graduate study advisor Prof Min ([Link to his log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html)), I also keep a [progress log](progress-log) for better time management. <br>**[Note on 30 Dec 2020]**, my progress log will be under one theme -- **Inter<sup>2</sup>** (<u>Inter</u>pretable and <u>Inter</u>active NLP/IR/AI). This is the scientific contribution I plan for my thesis (2023 planned). I have 3 years to reverse engineer this plan.
-
-I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)
-
-Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br><b>[Email]</b> I use Gmail, the username is miaoyisong<br>
+I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)<br>I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.<br>Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] [Email: LastnameFirstname@gmail.com] <br>
 
 **[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [this link for why?](why-not-mentor)).
-
----
-
-## Yisong's Calendar
-
-> Carpe Diem. -- Dead Poets Society.
 
 <body>
 
