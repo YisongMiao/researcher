@@ -29,7 +29,7 @@ I have maintained a few reading list within my research interests: [Link to read
 
 Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br><b>[Email]</b> I use Gmail, the username is miaoyisong<br>
 
-**[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [this link for why?](why-not-mentor)). Also see [this list](consultation-list) for my availability. 
+**[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [this link for why?](why-not-mentor)). Also see [this table](consultation-list) for my availability. 
 
 ---
 
