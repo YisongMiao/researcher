@@ -16,12 +16,10 @@ layout: default
 Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm an incoming PhD student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/), starting Jan 2021. <br>
 During my master study, I was affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://wing.comp.nus.edu.sg/). <br>
 I'm fortunate to be advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy) and [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home). <br>
-My office is on level 5 of AS6 building. (Work from home now) <br><br>
-My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts), and answer a basic question: how we human perceive beauty. To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest.
+My office is on level 5 of AS6 building.  <br><br>
+My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts). To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest. I wish UCMW can come true in 2030. 
 
-
-
-My CV is here: [PDF](Yisong-CV-2020-July.pdf)
+My CV is here: [PDF](Yisong-CV-2020-July.pdf).
 
 I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.
 
@@ -29,9 +27,9 @@ Learning from my graduate study advisor Prof Min ([Link to his log](https://www.
 
 I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)
 
-Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br><b>[Email]</b> I use Gmail, the username is miaoyisong
+Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br><b>[Email]</b> I use Gmail, the username is miaoyisong<br>
 
-**[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [why?](why-not-mentor)).
+**[Time donation for 1hr Zoom Session per week]** Feel free to directly talk to me, if you are a junior who wants advice for starting a career in AI. I am happy to help since I have received tremendous help from my seniors, despite this talk will not lead to a mentorship (I am not ready for that, [why?](why-not-mentor)). Check [this list](consultation-list) for my availability. 
 
 ---
 
@@ -44,8 +42,7 @@ Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=
 
 ## Master thesis -- Conversational AI
 
-- Conversational Recommendation.
-  Project webpage: [here](https://www.ear-conv-rec.github.io)  
+- Conversational Recommendation. 
 
 ## Computational Discourse and Lexical Semantics -- Ongoing project
 
@@ -139,3 +136,4 @@ My friends, the following order is based on the time I found your URL, i.e. in a
 </body>
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
+
