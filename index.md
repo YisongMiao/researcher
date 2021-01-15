@@ -23,7 +23,7 @@ I strongly believe making AI systems interpretable and interactive is the key re
 
 I have maintained a few reading list within my research interests: [Link to reading lists](readpapers)<br>I also have a note for *"Meta Research"*, recording the most fundamental methods (found by me / taught by my mentors) towards a good researcher: [Link to meta research](meta). I hope, at the end of the day, it would be the most valuable treasure.<br>Some External Links: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] [Email: LastnameFirstname@gmail.com] <br>
 
-### My Google Calendar:
+I link my Google Calendar here, but mostly for self time management.
 
 <dev>
 <center>
