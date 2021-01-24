@@ -13,7 +13,7 @@ layout: default
 
 # About
 
-Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm a 1st Year PhD student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/), advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). <br>
+Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm currently a 1st Year PhD student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/), advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). <br>
 Since my master study, I have been affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://wing.comp.nus.edu.sg/). <br>I owe many mentorship credits to [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home) in my junior years.<br>
 My office is on level 5 of AS6 building. I share the room with many [creative young scientists at WING](https://wing.comp.nus.edu.sg/people/) (main drive for me to go to office almost every day). Feel free to grab a Caffè Americano with me/us at [Maxx Coffee](https://www.maxx-coffee.sg/stores) downstrais!<br><br>
 My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts). To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest. I wish UCMW can come true in 2030, I only write an annual reflection now.
