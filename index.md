@@ -16,7 +16,7 @@ layout: default
 Welcome! I hail from Xi'an, China, and did my undergraduate study in Beijing, China.<br>I'm currently a 1st Year PhD student at [SoC (School of Computing)](https://www.comp.nus.edu.sg/), [NUS (National University of Singapore)](https://www.nus.edu.sg/), advised by [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). <br>
 Since my master study, I have been affiliated to [WING (Web Information Retrieval and Natural Language Processing Group)](https://wing.comp.nus.edu.sg/). <br>I owe many mentorship credits to [Dr. Wenqiang Lei](https://sites.google.com/view/wenqianghome/home) in my junior years.<br>
 My office is on level 5 of AS6 building. I share the floor with many [creative young scientists at WING](https://wing.comp.nus.edu.sg/people/) (main drive for me to go to office almost every day). Feel free to grab a Caffè Americano (my favourite) with me/us at [Maxx Coffee](https://www.maxx-coffee.sg/stores) downstrais!<br><br>
-My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts). To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest. I wish UCMW can come true in 2030, I only write an annual reflection now. [[reflection-2020]]()
+My <b>long-term goal</b> is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts). To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest. I wish UCMW can come true in 2030, I only write an annual reflection now. [[reflection-2020 (To come, due March 2021)]]()
 
 I strongly believe making AI systems interpretable and interactive is the key research problem for next few decades. This drives me to work every day towards **Inter<sup>2</sup>** (<u>Inter</u>pretable and <u>Inter</u>active NLP/IR/AI). See my [progress log](progress-log), I draw much inspiration from [Min's log](https://www.comp.nus.edu.sg/~kanmy/wiki/knmnynWiki14.html).
 
@@ -66,6 +66,14 @@ I use these contextual labels to organize my publications: (Here is a [Tutorial 
 - <span class="label label-purple">Natural Language Processing (NLP)</span>
 
 I use 🌟 to intuitively show my devotion and contribution to the paper.
+
+# Publication during my PhD
+
+To come!
+
+
+
+# Publication before my PhD study
 
 I also give a binary label, indicating whether it is a fast research or a slow research ([😛 wiki here](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf) from Min's talk on this concept).
 
