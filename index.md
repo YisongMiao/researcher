@@ -65,7 +65,7 @@ I use these contextual labels to organize my publications: (Here is a [Tutorial 
 - <span class="label label-green">knowledge graph</span>
 - <span class="label label-purple">Natural Language Processing (NLP)</span>
 
-I use 🌟 to intuitively show my devotion and contribution to the paper.
+I use 🌟 to intuitively show my devotion and contribution to the paper.<br>I also give a binary label, indicating whether it is a fast research or a slow research ([😛 wiki here](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf) from Min's talk on this concept).
 
 ## Publications during my PhD
 
@@ -75,7 +75,7 @@ To come.
 
 ## Publications before my PhD study
 
-I also give a binary label, indicating whether it is a fast research or a slow research ([😛 wiki here](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf) from Min's talk on this concept).
+
 
 - [Oct. 11th 2019] We have our first paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%. This is my first research experience, I am closely mentored by [Dr. Lei](https://sites.google.com/view/wenqianghome/home), [Dr. He](http://staff.ustc.edu.cn/~hexn/), [Dr. Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Dr. Chua](https://www.chuatatseng.com/).
 - [May 16th 2020] I have one more paper co-authored with [Dr. Lei](https://sites.google.com/view/wenqianghome/home), [Dr. He](http://staff.ustc.edu.cn/~hexn/), and Gangyi accepted to [KDD 2020](https://www.kdd.org/kdd2020/). This work is in line with our WSDM 2020 work on conversational recommendation. Thank you for all your support!
