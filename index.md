@@ -67,13 +67,13 @@ I use these contextual labels to organize my publications: (Here is a [Tutorial 
 
 I use 🌟 to intuitively show my devotion and contribution to the paper.
 
-# Publication during my PhD
+# Publications during my PhD
 
 To come!
 
 
 
-# Publication before my PhD study
+# Publications before my PhD study
 
 I also give a binary label, indicating whether it is a fast research or a slow research ([😛 wiki here](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf) from Min's talk on this concept).
 
