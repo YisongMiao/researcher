@@ -47,10 +47,14 @@ I embed my Google Calendar here, mostly for time management for myself, rather t
 
 - Conversational Recommendation. 
 
-## Computational Discourse and Lexical Semantics -- Ongoing project
+## Computational Discourse and Lexical Semantics -- Efforts During Master Study
 
 - Contextual Lexical Relation.
 - Implicit Discourse Relation Recognition.  
+
+## PhD Research -- Deep Reasoning for NLP
+
+Ongoing
 
 ---
 
@@ -83,9 +87,9 @@ To come.
 
 [1] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] <span class="label label-blue">recommender system</span>  <span class="label label-yellow">conversational recommender system</span>  <span class="label label-orange">ML / RL</span>   My Devotion: 🌟🌟🌟🌟🌟 [[Research Slow]](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf)
 
-[2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). <span class="label label-blue">recommender system</span>  <span class="label label-yellow">conversational recommender system</span>  <span class="label label-green">knowledge graph</span>  <span class="label label-orange">ML / RL</span>  My Devotion: 🌟🌟🌟🌟 [[PDF]](https://arxiv.org/abs/2007.00194) [[Codes and Project Websites @ Github.io]](https://cpr-conv-rec.github.io/) [[Research Fast]](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf)
+[2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). <span class="label label-blue">recommender system</span>  <span class="label label-yellow">conversational recommender system</span>  <span class="label label-green">knowledge graph</span>  <span class="label label-orange">ML / RL</span>  [[PDF]](https://arxiv.org/abs/2007.00194) [[Codes and Project Websites @ Github.io]](https://cpr-conv-rec.github.io/) My Devotion: 🌟🌟🌟🌟 [[Research Fast]](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf)
 
-[3] Wenqiang Lei, <u>Yisong Miao</u>, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) <span class="label label-purple">NLP</span> Resources to come.  My Devotion: 🌟🌟🌟🌟🌟 [[Research Slow]](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf)
+[3] Wenqiang Lei, <u>Yisong Miao</u>, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) <span class="label label-purple">NLP</span> Resources to come.   [[PDF]](https://cont2lex.github.io/files/8523.LeiW.pdf) [[Slides](https://cont2lex.github.io/files/cont2lex-slides-20min.pdf)] [[Poster]()] [[Code and Data]](https://cont2lex.github.io/files/aaai-poster-final.pdf) My Devotion: 🌟🌟🌟🌟🌟 [[Research Slow]](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf)
 
 ---
 
@@ -121,6 +125,8 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 **Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
 
 2018-2020, Master of Computing, National University of Singapore.
+
+2021- , PhD in Computer Science, National University of Singapore
 
 ---
 
