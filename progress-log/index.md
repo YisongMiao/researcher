@@ -4,6 +4,12 @@ Hey guys, I put my progress log in a reverse chronological order. The most recen
 
 
 
+[Note on March 20th 2020] I also find the best way to keep updated with me is GitHub for technical progress and Twitter for updates in life. 
+
+Links: [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]
+
+
+
 [Note on Jan 15th] I have decided that the current best way is to share my Google Calendar.
 
 <body>
@@ -11,38 +17,4 @@ Hey guys, I put my progress log in a reverse chronological order. The most recen
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 </body>
-
-## August 2020
-
-Week of Aug 2: [Link](0802)
-
-
-
-
-
-## July 2020
-
-I used an external software to keep my logs in July. 
-
-I cannot find a better way to transfer the logs here (some privacy concerns...). Therefore I decide to go back to my website's original log taking. 
-
-
-
-## June 2020
-
-Week of June 29: [Link](0629)
-
-Week of June 27: [Link](0627)
-
-June 1st: [Link](0601)
-
-
-
-
-
-## May 2020
-
-May 21: [link](0521)
-
-May 25 - May 31: [link](0531)
 
