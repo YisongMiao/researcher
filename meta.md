@@ -50,7 +50,7 @@ Skills:
 
 [June 2020] [Min] On presentation. Here are some keys... (1) You are the narrator of your slides, so make your speech and slides complementary. (2) Different level of abstractions. 1/3 contents for all people; another 1/3 contents for all people in your deprtment; and the last 1/3 for the expert in your area. 
 
-
+[April 2021] [Min] On opening up a new research problem/task. On a comparison between **intrinsic/extrinsic** stuff. We do have an intrinsic motivation to solve a big/abstract problem. We then need to narrow it down to an extrinsic task/dataset/contribution. It might not fully fulfill the intrinsic motivation, but other people can use your method/dataset and work together to reach that motivation. 
 
 
 
