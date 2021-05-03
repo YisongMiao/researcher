@@ -78,9 +78,9 @@ To come.
 
 **Technical Reports and Misc Projects**
 
-[1] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [PDF] [Code upon request]
+[1] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [[PDF](publications/tech-report-eDQG.pdf)] [Code upon request]
 
-[2] Yisong Miao, 2021. <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [Slides@Google] [Codebase@GitHub]
+[2] Yisong Miao, 2021. <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [[Slides@Google](https://docs.google.com/presentation/d/1d0xlTMaDiJ_x_VW1rEop4HEhbAZ5piqsC0lPZmGy7bg/edit?usp=sharing)] [[Codebase@GitHub](https://github.com/YisongMiao/Q-Title)]
 
 
 
