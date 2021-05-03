@@ -55,7 +55,7 @@ Ongoing
 
 ---
 
-# Publications{#publication}
+# Publications {#publication}
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
@@ -80,7 +80,7 @@ To come.
 
 [1] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [PDF] [Code upon request]
 
-[2] Yisong Miao, 2021. <u>Mining and Analyzing Questions in Paper Titles.</u> An Engineering Trial Task. [Slides@Google] [Codebase@GitHub]
+[2] Yisong Miao, 2021. <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [Slides@Google] [Codebase@GitHub]
 
 
 
