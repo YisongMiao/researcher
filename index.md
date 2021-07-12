@@ -54,22 +54,6 @@ I wish this list can often, with new highlights replacing old ones.
 
 
 
-## Bachelor thesis -- Webpage Classification
-- Webpage classification using URLs only. 
-
-## Master thesis -- Conversational AI
-
-- Conversational Recommendation. 
-
-## Computational Discourse and Lexical Semantics -- Efforts During Master Study
-
-- Contextual Lexical Relation.
-- Implicit Discourse Relation Recognition.  
-
-## PhD Research -- Reasoning in NLP
-
-Ongoing
-
 ---
 
 # Publications {#publication}
