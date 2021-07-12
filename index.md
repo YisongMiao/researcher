@@ -37,6 +37,23 @@ I embed my Google Calendar here, mostly for time management for myself, rather t
 
 > It's not about how much you earn, it's about how much you worth. -- Silicon Valley, HBO.
 
+
+
+## My Research in Three Sentences
+
+I try to summarize my research highlights in three sentences.
+I wish this list can often, with new highlights replacing old ones.
+
+**July 2021 version:**
+
+**Sent1:** Propose multi-round conversational recommendation, and co-design a solution for that.
+
+**Sent2:** Identify not all antonym word pairs are still antonym in context, and co-create a corpus for that.
+
+**Sent3:** *To Come*.
+
+
+
 ## Bachelor thesis -- Webpage Classification
 - Webpage classification using URLs only. 
 
