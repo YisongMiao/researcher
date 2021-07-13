@@ -37,9 +37,9 @@ I embed my Google Calendar here, mostly for time management for myself, rather t
 
 ## My Research in Three Sentences
 
-As a PhD student, I try to generate knowledge for science and humanity.
+As a PhD student, I try to generate new knowledge for science and humanity.
 
-I summarize my research highlights in three sentences. I wish this list can be updated often, with new highlights replacing old ones.
+I am summarizing my research highlights in three sentences. I wish this list can be updated often, with new highlights replacing old ones.
 
 **July 2021 version:**
 
@@ -47,7 +47,7 @@ I summarize my research highlights in three sentences. I wish this list can be u
 
 **Sent2:** Identify not all antonym word pairs are still antonym in context, and co-create a corpus for that.
 
-**Sent3:** *To Come*. *I am currently studying deep understanding and reasoning for NLP.*
+**Sent3:** *To Come*. *I focus on deep understanding and reasoning for NLP.*
 
 
 
