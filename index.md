@@ -39,7 +39,7 @@ I embed my Google Calendar here, mostly for time management for myself, rather t
 
 As a PhD student, I try to generate knowledge for science and humanity.
 
-I try to summarize my research highlights in three sentences. I wish this list can be updated often, with new highlights replacing old ones.
+I summarize my research highlights in three sentences. I wish this list can be updated often, with new highlights replacing old ones.
 
 **July 2021 version:**
 
