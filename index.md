@@ -35,14 +35,11 @@ I embed my Google Calendar here, mostly for time management for myself, rather t
 
 # Research Experiences
 
-> It's not about how much you earn, it's about how much you worth. -- Silicon Valley, HBO.
-
-
-
 ## My Research in Three Sentences
 
-I try to summarize my research highlights in three sentences.
-I wish this list can be updated often, with new highlights replacing old ones.
+As a PhD student, I try to generate knowledge for science and humanity.
+
+I try to summarize my research highlights in three sentences. I wish this list can be updated often, with new highlights replacing old ones.
 
 **July 2021 version:**
 
@@ -50,7 +47,7 @@ I wish this list can be updated often, with new highlights replacing old ones.
 
 **Sent2:** Identify not all antonym word pairs are still antonym in context, and co-create a corpus for that.
 
-**Sent3:** *To Come*.
+**Sent3:** *To Come*. *I am currently studying deep understanding and reasoning for NLP.*
 
 
 
