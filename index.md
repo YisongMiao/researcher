@@ -49,7 +49,7 @@ I am summarizing my research highlights in three sentences. I wish this list can
 
 **Sent3:** *To Come*. *I focus on deep understanding and reasoning for NLP.*
 
-
+I take the liberty of creating similar stuff for two cool guys, [Albert](albert) and [Steve](steve). Compared with them, my contributions to science and humanity seem quite incremental. 
 
 ---
 
