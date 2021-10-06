@@ -4,6 +4,10 @@ A blog for MLP. MLP stands for **M**odel, **L**anguage and **P**hilosophy, NOT *
 
 My name is Yisong. I am a junior Ph.D. student studying Natural Language Processing. 
 
+
+
+## Motivation
+
 Most of my current works study limited datasets (annotated by limited human) in a limited form (mostly tensors) by limited models (mostly invented in the last 5 years). 
 
 How do my current works relate to classic math / ML / AI **models** (perhaps invented 20 years ago)?
@@ -13,6 +17,8 @@ How do my current works relate to classic **linguistic** theory?
 How do my current works implicate **philosophical** views?
 
 
+
+## Blogs
 
 I expect an update frequency around once a month.
 
