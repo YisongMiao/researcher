@@ -24,7 +24,7 @@ I expect an update frequency around once a month.
 
 I have come with the titles for the first few blogs:
 
-**Blog 0.1**: On MaxProb method in NLP (A request by Prof Min to present in a future group meeting, so I decide to write up a blog/PDF for clarity.) [web][maxprob]
+**Blog 0.1**: On MaxProb method in NLP (A request by Prof Min to present in a future group meeting, so I decide to write up a blog/PDF for clarity.) [web](maxprob)
 
 **Blog 1:** When a junior NLPer reads Ludwig Wittgenstein.
 
