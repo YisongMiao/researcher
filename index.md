@@ -25,7 +25,7 @@ Prior to that, I finished my master's study at the same place. Besides Min, I al
 
 ## Research
 
-I am now studying **reasonable natural language understanding** under Prof Min's guidance. [[Project Webpage @ WING-NUS](https://wing.comp.nus.edu.sg/reasoning-nlp/)]<br>I approach it from two angles: <br>(1) 🔤 What reasoning evidence can we find in the language itself (e.g. semantics, structures)? <br>(2) 🌍 What reasoning evidence can we find in the language representation (characteristics of NN, distributions of Prob)?  <br>
+I am now studying **reasonable natural language understanding** under Prof Min's guidance. [[Project Webpage @ WING-NUS](https://wing.comp.nus.edu.sg/reasoning-nlp/)]<br>I approach it from two angles: <br>(1) 🔤 What reasoning evidence can we find in the language itself (e.g. semantics, structures)? <br>(2) 🌍 What reasoning evidence can we find in the language representation (characteristics of NN, world state implicated by NN)?  <br>
 
 I am also fortunate to study with talented [lab mates](https://wing.comp.nus.edu.sg/people/) at WING. I enjoy talking about research with them. <br>Notably, [Yuxi](https://yuxixie.github.io/) and [Taha](https://cuthalionn.github.io/) have a high overlap with my research. Their webpages can be interesting to you if you are interested in mine :P<br>
 
