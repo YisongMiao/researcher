@@ -15,13 +15,21 @@ layout: default
 
 Welcome! I am Yisong. I am just a kid studying how to teach machines (if can) to understand natural language. 
 
+## Short Bio
+
 I am a first-year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I am fortunate to work with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
 
 Prior to that, I finished my master's study at the same place. Besides Min, I also have received guidance from other good researchers including Dr. [Wenqiang Lei](https://sites.google.com/view/wenqianghome/home), Dr. [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), and Dr. [Tat-Seng Chua](https://www.chuatatseng.com/). We explored various topics including [conversational](https://arxiv.org/abs/2002.09102) [recommendation](https://arxiv.org/abs/2007.00194) and [semantics](https://ojs.aaai.org/index.php/AAAI/article/view/17560). They helped me find what I like to do in research after these explorations. I am always grateful for them. <br>Even prior to that, I graduated with my BComp from [UCAS](https://english.ucas.ac.cn/). I was fortunate to have monthly chats and lunches with Dr. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en).<br>Even prior to that, I hail from [Xi'an](https://en.wikipedia.org/wiki/Xi%27an) China. We have beautiful [city walls](https://en.wikipedia.org/wiki/Fortifications_of_Xi%27an).
 
+
+
+## Research
+
 I am now studying **reasonable natural language understanding** under Prof Min's guidance. I approach it from two angles: (1) what reasoning evidence can we find in the language itself (e.g. semantics, structures)? (2) what reasoning evidence can we find in the language representation (characteristics of NN, distributions of Prob)?  [[Project Webpage @ WING-NUS](https://wing.comp.nus.edu.sg/reasoning-nlp/)]<br>
 
 I am also fortunate to study with talented [lab mates](https://wing.comp.nus.edu.sg/people/) at WING. I enjoy talking about research with them. <br>Notably, [Yuxi](https://yuxixie.github.io/) and [Taha](https://cuthalionn.github.io/) have a high overlap with my research. Their webpages can be interesting to you if you are interested in mine :P<br>With Min's support, I am also advising following research:<br>-  I am providing high-level advice for [Saurabh Jain](https://www.linkedin.com/in/saurabhsaurabh/) who studies [NLG for product comparison](https://wing.comp.nus.edu.sg/comparison-of-products-in-conversational-systems/) for his MComp Thesis. This is a challenging task since semantics in products should be comprehended by the NLG component. <br>-  I am working with [Yang Zi Yun](https://sg.linkedin.com/in/zi-yun-yang) on her BComp Thesis on bridging lexical composition with emoji mashup. This is the first time I start/advise a research project from scratch. Zi Yun has two [group](http://bit.ly/3BRZKcJ) [presentations](https://bit.ly/3wgdlsS) available on her [project webpage](https://wing.comp.nus.edu.sg/bridging-emoji-mashup-and-lexical-composition/).
+
+## Misc
 
 I am TAing CS3244 (ML) for current semester and CS4248 (NLP) for next semester. 
 
