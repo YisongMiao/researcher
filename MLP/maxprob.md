@@ -32,7 +32,7 @@ One for surface competition [PDF@[aclweb](https://aclanthology.org/2021.emnlp-ma
 We all know `max` function has no gradient. 
 
 ```latex
-max = $argmax$ $\times$ $D$
+max = $argmax$ $D$
 ```
 
 
