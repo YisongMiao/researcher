@@ -27,7 +27,17 @@ One for surface competition [PDF@[aclweb](https://aclanthology.org/2021.emnlp-ma
 
 
 
+## Limitation
 
+We all know `max` function has no gradient. 
+
+```latex
+max
+```
+
+
+
+Can we make a differentiable type of MaxProb?
 
 
 
