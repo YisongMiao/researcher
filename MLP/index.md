@@ -24,7 +24,15 @@ I expect an update frequency around once a month.
 
 I have come with the titles for the first few blogs:
 
-**Blog 0.1**: On MaxProb method in NLP (A request by Prof Min to present in a future group meeting, so I decide to write up a blog/PDF for clarity.) [[webpage](maxprob)@here]
+**Blog 0.1**: On MaxProb method in NLP (A request by Prof Min to present in a future group meeting, so I decide to write up a blog/PDF for clarity.) 
+
+Hooray! Blog 0.1 finished on Nov. 19th 2021 🎉
+
+- Introductory [[webpage](maxprob)]@here. 
+
+- A made a semi-private tutorial to our group. I have selected the contents for public audience as a [[PDF](maxprob.pdf)]@here.
+
+
 
 **Blog 1:** When a junior NLPer reads Ludwig Wittgenstein.
 
