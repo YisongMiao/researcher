@@ -44,3 +44,15 @@ Hooray! Blog 0.1 finished on Nov. 19th 2021 🎉
 
 
 
+## Others' Blogs
+
+While I am busy writing (procrastinating) my future articles, others' blogs might fill this void:
+
+- Blog by [Taha Aksu](https://cuthalionn.github.io/year-archive/) (group mate). 
+- Blog and technical notes by [Xiachong Feng](http://xcfeng.net/notes.html) (friend visiting our group).
+
+- Blog by [Sebastian Ruder](https://ruder.io/) (no need for introduction for NLPer 😛).
+- Blog by [Paul Graham](http://www.paulgraham.com/articles.html) (no need for introduction for VCer/CSer in general 😛).
+
+
+
