@@ -33,8 +33,11 @@ I have come with the titles for the first few blogs:
 **Resources:**
 
 - Introductory [[webpage](maxprob)]@here. (Nov. 19th 2021 🎉)
-
 - A made a semi-private tutorial to our group. I have selected the contents for public audience as a [[PDF](maxprob.pdf)]@here.
+
+
+
+---
 
 
 
@@ -48,6 +51,10 @@ I have come with the titles for the first few blogs:
 
 
 
+---
+
+
+
 **Blog 1:** When a junior NLPer reads Ludwig Wittgenstein.
 
 **Blog 2:** On information bottleneck with my tasks.
@@ -55,6 +62,8 @@ I have come with the titles for the first few blogs:
 **Blog 3:** On systematic generalization with my tasks (starting from F&P 1988).
 
 
+
+---
 
 
 
