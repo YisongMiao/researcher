@@ -90,7 +90,7 @@ To come.
 
 **Technical Reports and Misc Projects**
 
-[1] Yihao Ang, <u>Yisong Miao</u>* . (\*=Ordered Alphabetically) (2021) Towards Molecular-level Similarity Search based on Text Data. An In-Class Project in CS6219, Advanced Topics in Computer Systems. [[Slides](publications/CS6219-Slides.pdf)@here] [[Code](https://github.com/YisongMiao/text-dna)@GitHub]
+[1] Yihao Ang, <u>Yisong Miao</u>* . (\*=Ordered Alphabetically) (2021) <u>Towards Molecular-level Similarity Search based on Text Data.</u> An In-Class Project in CS6219, Advanced Topics in Computer Systems. [[Slides](publications/CS6219-Slides.pdf)@here] [[Code](https://github.com/YisongMiao/text-dna)@GitHub]
 
 <u>One sentence summary:</u> We embed text 🔤 into DNA 🧬 and support similarity search. Our main finding is that the generated DNA sequences are making sense for edit-distance, but challenging for wet lab simulation (i.e. DNA hybridization).
 
