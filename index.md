@@ -90,11 +90,17 @@ To come.
 
 **Technical Reports and Misc Projects**
 
-[1] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) (2021) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [[PDF](publications/tech-report-eDQG.pdf)] [Code upon request]
+[1] Yihao Ang, <u>Yisong Miao</u>* . (\*=Ordered Alphabetically) (2021) Towards Molecular-level Similarity Search based on Text Data. An In-Class Project in CS6219, Advanced Topics in Computer Systems. [[Slides](publications/CS6219-Slides.pdf)@here] [[Code](https://github.com/YisongMiao/text-dna)@GitHub]
+
+<u>One sentence summary:</u> We embed text 🔤 into DNA 🧬 and support similarity search. Our main finding is that the generated DNA sequences are making sense for edit-distance, but challenging for wet lab simulation (i.e. DNA hybridization).
+
+<u>My contributions in this work:</u> Things related to language. 
+
+[2] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) (2021) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [[PDF](publications/tech-report-eDQG.pdf)] [Code upon request]
 
 <u>My contributions in this work:</u> I contribute the idea and problem statement for this project. I design the method for linguistic heuristic approach and GNN leanrable approach. I implement the linguistic heuristic approach. I write half of the paper. 
 
-[2] Yisong Miao. (2021). <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [[Slides@Google](https://docs.google.com/presentation/d/1d0xlTMaDiJ_x_VW1rEop4HEhbAZ5piqsC0lPZmGy7bg/edit?usp=sharing)] [[Codebase@GitHub](https://github.com/YisongMiao/Q-Title)]
+[3] Yisong Miao. (2021). <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [[Slides@Google](https://docs.google.com/presentation/d/1d0xlTMaDiJ_x_VW1rEop4HEhbAZ5piqsC0lPZmGy7bg/edit?usp=sharing)] [[Codebase@GitHub](https://github.com/YisongMiao/Q-Title)]
 
 <u>My contributions in this work:</u> I come up with the problem statement for this engineering project. I contribute a codebase for webpage crawling (in bash language) and question mining (in python language). I contribute *Q-Title*, a corpus for questions in paper titles. 
 
