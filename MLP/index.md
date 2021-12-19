@@ -57,7 +57,15 @@ I have come with the titles for the first few blogs:
 
 **Blog 1:** When a junior NLPer reads Ludwig Wittgenstein.
 
+
+
+
+
 **Blog 2:** On information bottleneck with my tasks.
+
+Concept Bottleneck Models. ICML '20.
+
+
 
 **Blog 3:** On systematic generalization with my tasks (starting from F&P 1988).
 
