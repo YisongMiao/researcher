@@ -53,6 +53,16 @@ I have come with the titles for the first few blogs:
 
 ---
 
+**Blog 0.3:** When are modular neural networks better than connectionism neural networks?
+
+**One liner summary:** I am curious!
+
+
+
+---
+
+
+
 
 
 **Blog 1:** When a junior NLPer reads Ludwig Wittgenstein.
