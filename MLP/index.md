@@ -53,7 +53,7 @@ I have come with the titles for the first few blogs:
 
 ---
 
-**Blog 0.3:** When are modular neural networks better than connectionism neural networks?
+**Blog 0.3:** When are modular neural networks better than unstructured neural networks?
 
 **One liner summary:** I am curious!
 
