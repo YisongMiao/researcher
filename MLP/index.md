@@ -6,6 +6,10 @@ My name is Yisong. I am a junior Ph.D. student studying Natural Language Process
 
 
 
+
+
+
+
 ## Motivation
 
 Most of my current works study limited datasets (annotated by limited human) in a limited form (mostly tensors) by limited models (mostly invented in the last 5 years). 
@@ -26,7 +30,7 @@ I have come with the titles for the first few blogs:
 
 
 
-**Blog 0.1**: On MaxProb method in NLP.
+### **Blog 0.1**: On MaxProb method in NLP.
 
 **One liner summary:** A request by Prof Min to present in a future group meeting, so I decide to write up a blog/PDF for clarity. MaxProb describes the confidence of a model in prediction. Tutorial statement: MaxProb is good enough, but it can be better calibrated and adapted. 
 
