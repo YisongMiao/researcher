@@ -6,7 +6,7 @@ My name is Yisong. I am a junior Ph.D. student studying Natural Language Process
 
 
 
-
+[TOC]
 
 
 
@@ -45,7 +45,7 @@ I have come with the titles for the first few blogs:
 
 
 
-**Blog 0.2**: *What do you mean by understand?*
+### **Blog 0.2**: *What do you mean by understand?*
 
 **One liner summary:** This is the one million dollar question my advisor asked me during a research meeting. He compared a neural network with a human with autism. He advised me to find smart proxy to measure understanding. 
 
@@ -57,7 +57,7 @@ I have come with the titles for the first few blogs:
 
 ---
 
-**Blog 0.3:** When are modular neural networks better than unstructured neural networks?
+### **Blog 0.3:** When are modular neural networks better than unstructured neural networks?
 
 **One liner summary:** I am curious!
 
@@ -65,7 +65,7 @@ I have come with the titles for the first few blogs:
 
 ---
 
-**Blog 0.4:** Entity and relation embeddings. 
+### **Blog 0.4:** Entity and relation embeddings. 
 
 **One liner summary:** Knowledge base is not my research focus. But the math behind these methods are facinating. So I decide to write up a technical note for clarity. 
 
