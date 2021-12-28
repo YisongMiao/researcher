@@ -6,7 +6,7 @@ My name is Yisong. I am a junior Ph.D. student studying Natural Language Process
 
 
 
-[TOC]
+{:toc}
 
 
 
