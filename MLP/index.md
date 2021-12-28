@@ -63,7 +63,7 @@ I have come with the titles for the first few blogs:
 
 **Blog 0.4:** Entity and relation embeddings. 
 
-**One liner summary:** Knowledge base is not my research focus. But the math behind these methods are facinating. So I decide write up a technical note for clarity. 
+**One liner summary:** Knowledge base is not my research focus. But the math behind these methods are facinating. So I decide to write up a technical note for clarity. 
 
 ---
 
