@@ -42,6 +42,17 @@ h2 {
     font-weight:normal;
 }
 
+h3 {
+    /* font: normal 16px Verdana, Arial, Sans-Serif;*/
+    font-family: "Lucida Grande", sans-serif;
+    /* font-family: 'Comfortaa', Helvetica, sans-serif;*/
+    /*font-family: 'Comfortaa', sans-serif;*/
+    /* color: #333;*/
+    color: #f58f00;
+    font-size: 12pt;
+    font-weight:normal;
+}
+
 a {
     text-decoration: none;
     color: $accent;
