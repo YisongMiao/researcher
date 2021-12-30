@@ -36,9 +36,11 @@ I have come with the titles for the first few blogs:
 
 **One liner summary:** A request by Prof Min to present in a future group meeting, so I decide to write up a blog/PDF for clarity. MaxProb describes the confidence of a model in prediction. Tutorial statement: MaxProb is good enough, but it can be better calibrated and adapted. 
 
+**Status:** Done on Nov. 19th 2021 🎉.
+
 **Resources:**
 
-- Introductory [[webpage](maxprob)]@here. (Nov. 19th 2021 🎉)
+- Introductory [[webpage](maxprob)]@here.
 - A made a semi-private tutorial to our group. I have selected the contents for public audience as a [[PDF](maxprob.pdf)]@here.
 
 
@@ -50,6 +52,8 @@ I have come with the titles for the first few blogs:
 ### **Blog 0.2**: *What do you mean by understand?*
 
 **One liner summary:** This is the one million dollar question my advisor asked me during a research meeting. He compared a neural network with a human with autism. He advised me to find smart proxy to measure understanding. 
+
+**Status:** In Progress. 
 
 **Resources:**
 
@@ -63,13 +67,15 @@ I have come with the titles for the first few blogs:
 
 **One liner summary:** I am curious!
 
-
+**Status:** Not started. 
 
 ---
 
 ### **Blog 0.4:** Entity and relation embeddings. 
 
 **One liner summary:** Knowledge base is not my research focus. But the math behind these methods are facinating. So I decide to write up a technical note for clarity. 
+
+**Status:** Not started. 
 
 ---
 
