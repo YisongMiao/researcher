@@ -57,7 +57,7 @@ I have come with the titles for the first few blogs:
 
 **Resources:**
 
-- I wish I can finish a blog post by Dec 2021. 
+- I wish I can finish a blog post by ~~Dec 2021~~, Jan 2022. 
 
 
 
