@@ -55,7 +55,7 @@ I have come with the titles for the first few blogs:
 
 **Status:** In Progress. 
 
-Update: Nov 16th.  I will write around the keyword of "decompose".
+Update: Jan 16th.  I will write around the keyword of "decompose".
 
 **Resources:**
 
