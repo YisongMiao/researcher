@@ -33,7 +33,7 @@ With Min's support, I am also advising following research:<br>-  🛒 I am provi
 
 ## Misc
 
-I am TAing [CS4248](https://knmnyn.github.io/cs4248-2120/) (NLP) this semester. I am creating tutorial material. Talk to me if you have a small 💡idea/quiz/puzzle  to share with us. 
+I am TAing [CS4248](https://knmnyn.github.io/cs4248-2120/) (NLP) this semester. I am creating tutorial material. Talk to me if you have a small 💡idea/quiz/puzzle to share with us. 
 
 Physical Yisong: AS6 Building, meet me in the lab.<br>Digital Yisong: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>Email Yisong: [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com]. Do CC my gmail, since I will graduate one day :P <br>
 
