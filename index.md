@@ -13,17 +13,25 @@ layout: default
 
 # About
 
-Welcome! I am Yisong. I am just a kid studying how to teach machines (if can) to understand natural language. 
+Aloha 👋 You have reached my academic homepage. 
 
-## Short Bio
+I am a second year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I study natural language processing with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
 
-I am a first-year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I am fortunate to work with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
+An overview of my research is available [here](#research). 
 
-Prior to that, I finished my master's study at the same place. Besides Min, I also have received guidance from other good researchers including Dr. [Wenqiang Lei](https://sites.google.com/view/wenqianghome/home), Dr. [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), and Dr. [Tat-Seng Chua](https://www.chuatatseng.com/). We explored various topics including [conversational](https://arxiv.org/abs/2002.09102) [recommendation](https://arxiv.org/abs/2007.00194) and [semantics](https://ojs.aaai.org/index.php/AAAI/article/view/17560). They helped me find what I like to do in research after these explorations. I am always grateful for them. <br>Even prior to that, I graduated with my BComp from [UCAS](https://english.ucas.ac.cn/). I was fortunate to have monthly chats and lunches with Dr. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en).<br>Even prior to that, I hail from [Xi'an](https://en.wikipedia.org/wiki/Xi%27an) China. We have the best [city walls](https://en.wikipedia.org/wiki/Fortifications_of_Xi%27an) 🌇 and the best [Rou-Jia-Mo](https://en.wikipedia.org/wiki/Roujiamo) 🥙.
+Physical Yisong: AS6 Building, meet me in the lab :P <br>Digital Yisong: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>Email Yisong: [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>I keep a progress log for my research:
 
+- [2022](log/2022)
 
+My Google Calendar is available. Carpe Diem!<br>
+<dev>
 
-## Research
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</center>
+</dev>
+
+## Research overview{#research}
 
 I am now studying **reasonable natural language understanding** under Prof Min's guidance. [[Project Webpage @ WING-NUS](https://wing.comp.nus.edu.sg/reasoning-nlp/)]<br>I approach it from two angles: <br>(1) 🔤 What reasoning evidence can we find in the language itself (e.g. semantics, structures)? <br>(2) 🌍 What reasoning evidence can we find in the language representation (characteristics of NN, world state implicated by NN)?  <br>
 
@@ -35,35 +43,7 @@ With Min's support, I am also advising following research:<br>-  🛒 I am provi
 
 I am TAing [CS4248](https://knmnyn.github.io/cs4248-2120/) (NLP) this semester. I am creating tutorial material. Talk to me if you have a small 💡idea/quiz/puzzle to share with us. 
 
-Physical Yisong: AS6 Building, meet me in the lab.<br>Digital Yisong: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>Email Yisong: [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com]. Do CC my gmail, since I will graduate one day :P <br>
 
-My Google Calendar is available. Carpe Diem!<br>
-<dev>
-
-<center>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</center>
-</dev>
-
----
-
-# Research Experiences
-
-## My Research in Three Sentences
-
-As a PhD student, I try to generate new knowledge for science and humanity.
-
-I am summarizing my research highlights in three sentences. I wish this list can be updated often, with new highlights replacing old ones.
-
-**July 2021 version:**
-
-**Sent1:** Propose multi-round conversational recommendation, and co-design a solution for that.
-
-**Sent2:** Identify not all antonym word pairs are still antonym in context, and co-create a corpus for that.
-
-**Sent3:** *To Come*. *I focus on deep understanding and reasoning for NLP.*
-
-I take the liberty of creating similar stuff for two cool guys, [Albert](albert) and [Steve](steve). Compared with them, my contributions to science and humanity seem quite incremental. 
 
 ---
 
@@ -116,6 +96,24 @@ To come.
 
 ---
 
+
+
+# Teaching and Mentoring
+
+## TA:
+
+- CS3244. 2021-2022 Fall (Student experience coordinator)
+- CS4248. 2021-2022 Spring (Tutorial leader and project consultation)
+- CS5228. 2022-2023 Fall (Primarily for grading)
+- CS4248 (I'm almost certain!) 2022-2023 Spring (TBD)
+
+## Mentoring:
+
+- Saurabh Jain. Graduated 2022 Winter. Comparative Snippet Generation. Workshop published at [ECNLP@ACL'22](https://aclanthology.org/2022.ecnlp-1.7/).
+- Zi Yun Yang. Graduated 2022 Spring. [Outstanding Undergraduate Researcher Prize](https://www.comp.nus.edu.sg/news/2022-ourp-ocp-2122/) (OURP, 5 out of 1k+). 
+
+
+
 # Service
 
 > Grow and help others grow. -- Anonymous
@@ -153,24 +151,7 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 
 2021- , PhD in Computer Science, National University of Singapore
 
----
 
-# URL Links to my friends who're not my research collaborators
-
-> *When Voldemort is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter
-
-My friends, the following order is based on the time I found your URL, i.e. in a <u>"first-come-first-record"</u> fashion. Please tell me if you'd like to be presented and introduced here! <span style="color:red">Emprically it is a great way to increase your PageRank on [Google](https://www.google.com).</span> (e.g., [this search result](https://www.google.com/search?q=xin+wang+prosperity+investment&oq=xin+wang+&aqs=chrome.2.69i57j35i39l2j0l3j69i65l2.2764j0j1&sourceid=chrome&ie=UTF-8)) However, it is still an open question that whether it is ME increase YOUR PageRank, or the inverse way :p.
-
-- [Ms. Xin Wang](https://wangxinalice.com) is not only my girlfriend, but also my best friend. She is now an investment associate with [Prosperity Investment](http://www.cgpinvestment.com) based in Beijing. She has broad investment interest in the AI industry and AI-empowered traditional industry. She earned dual degree in Bachelor of Law and English Literature from [UIBE](http://www.uibe.edu.cn) in 2017. We are in love since August 2015. My relationship with her is the most precious human relationship except the one with my parents. The goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals. <span style="color:red">Please get in touch with Xin if you would like to be funded by her!</span>
-- [Zek Chang](https://twitter.com/zekchang) is the founder of [Guduo Inc.](http://www.guduokeji.com/), a technical start-up company headquartered in Beijing. Guduo solves general software engineering tasks as an intelligent outsourcing problem. Zek and me are both emotional men (at bar), we have similar taste in tech, music and arts. Our nights celebrated at the MEI bar have become one of my most impressive memories in Beijing, thanks for your drinks and accompanying. <span style="color:red">Please get in touch with Zek if you have a big idea to be realized with tremendous quality and speed!</span>
-- [Junda Zhang](http://aheader.org) is the same batch of master student at SoC with me. We collaborated in [CS5228 Kaggle Competiton](https://kaggle.com/c/cs5228-article-category-prediction) and won the first-runner-up! [Code](https://github.com/YisongMiao/CS5228-project). Junda has vast interest in machine learning and deep learning systems.  
-- [Chaoren Li](http://chaoren-li.com) is a nice gentleman. He generously offered me his bedroom during my visit to the Bay Area in Spring 2020. He is now a software engineer leader at Google, solving major techinical problem with global impact! To be specific, he is the main designer for a key component for YouTube Apps. Please get in touch with Chaoren if you want to know more!
-- [Dr. Zhen Wang, aka, 'zzzzzz'](http://joneswong.github.io/) is a gentleman I know in the Running Group. We later found we have many interests in common, including but not limited to WeChat stickers (Moer 萌二 and Molo 萌六). He is one of the most active replier to my sparkling thought thrown in the Running Group. He is currently an algorithm expert at Alibaba, Hangzhou. He is the author of [TransH](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8531) (a building block of KG research). Check out his sites for many interesting posts on ML and DM!
-- [Qingfeng Lan](https://lancelqf.github.io/) is a good friend of mine. I was lucky to be his dorm mate in [UCAS](https://english.cas.cn/) in AY 2015/16. Enjoying his books (e.g. [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)) and music (e.g. [Li Chen 陈粒](https://zh.m.wikipedia.org/zh-hans/%E9%99%B3%E7%B2%92)) in evenings is one of the best college moments for me! He is a nice person and always helps others. He is the inaugural Editor-in-chief for an advice book (50+ articles, one of them authored by me :P) on how to apply for grad school, bringing significant help for alumni of UCAS (a new school). He is now a PhD student at [U of Alberta](https://www.ualberta.ca/index.html), focusing on RL research. He is the author of [Maxmin Q-learning (ICLR '20)](https://lancelqf.github.io/media/paper/maxmin2020.pdf). Check out his site for many interesting posts on tech and humanity!
-
-<body>
-<!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8" width="20" height="20"></script> -->
-<!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8"></script> -->
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8&co=1cb2f2&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 
