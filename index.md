@@ -158,7 +158,7 @@ I list my TAs and mentorships in a reverse chronological order:
 
 ## Mentoring:
 
-- Zi Yun Yang. Graduated 2022 Spring. Topics about emoji composition and lexical semantics. [Outstanding Undergraduate Researcher Prize](https://www.comp.nus.edu.sg/news/2022-ourp-ocp-2122/) (OURP, 5 out of 1k+). 
+- Zi Yun Yang. Graduated 2022 Spring. <u>*Topics about emoji composition and lexical semantics.*</u> [Outstanding Undergraduate Researcher Prize](https://www.comp.nus.edu.sg/news/2022-ourp-ocp-2122/) (OURP, 5 out of 1k+). 
 - Saurabh Jain. Graduated 2021 Winter. *<u>Comparative Snippet Generation.</u>* [ECNLP@ACL'22](https://aclanthology.org/2022.ecnlp-1.7/).
 
 
