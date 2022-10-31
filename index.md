@@ -27,7 +27,7 @@ I keep a progress log for my research:
 
 - [2022](log/2022)
 
-My [Google Calendar](#calendar) is also available for my research/TA meetings and discussions. Carpe Diem!<br>
+My [Google Calendar](#calendar) is also available at the end of the page. Carpe Diem!<br>
 
 
 ---
@@ -55,6 +55,8 @@ Under submission. Please contact me if you're interested in reading it!
 
 
 ## Bridging emoji and lexical semantics (2021-) {#emoji}
+
+Emoji inspired people to text creatively. We observe many people composes several emojis together to express a new meaning. For example:
 
 🐻‍❄️=🐻+🧊
 
