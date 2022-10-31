@@ -27,7 +27,7 @@ I keep a progress log for my research:
 
 - [2022](log/2022)
 
-My Google Calendar is available. Carpe Diem!<br>
+My Google Calendar is available here. Carpe Diem!<br>
 <dev>
 
 <center>
@@ -51,7 +51,7 @@ I am TAing [CS4248](https://knmnyn.github.io/cs4248-2120/) (NLP) this semester. 
 
 ---
 
-# Publications {#publication}
+# Paper archive {#publication}
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
@@ -106,15 +106,15 @@ To come.
 
 ## TA:
 
-- CS3244. 2021-2022 Fall (Student experience coordinator)
-- CS4248. 2021-2022 Spring (Tutorial leader and project consultation)
-- CS5228. 2022-2023 Fall (Primarily for grading)
-- CS4248 (I'm almost certain!) 2022-2023 Spring (TBD)
+- 2021-2022 Fall. CS3244. (Student experience coordinator)
+- 2021-2022 Spring. CS4248. (Tutorial leader and project consultation)
+- 2022-2023 Fall. CS5228. (Primarily for grading)
+- 2022-2023 Spring. CS4248 (I wish I can TA it again) (TBD)
 
 ## Mentoring:
 
-- Saurabh Jain. Graduated 2022 Winter. Comparative Snippet Generation. Workshop published at [ECNLP@ACL'22](https://aclanthology.org/2022.ecnlp-1.7/).
-- Zi Yun Yang. Graduated 2022 Spring. [Outstanding Undergraduate Researcher Prize](https://www.comp.nus.edu.sg/news/2022-ourp-ocp-2122/) (OURP, 5 out of 1k+). 
+- Saurabh Jain. Graduated 2021 Winter. *<u>Comparative Snippet Generation.</u>* [ECNLP@ACL'22](https://aclanthology.org/2022.ecnlp-1.7/).
+- Zi Yun Yang. Graduated 2022 Spring. Topics about emoji composition and lexical semantics. [Outstanding Undergraduate Researcher Prize](https://www.comp.nus.edu.sg/news/2022-ourp-ocp-2122/) (OURP, 5 out of 1k+). 
 
 
 
@@ -144,22 +144,22 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 
 ---
 
+
+
 # Education
 
-> I never let school interfere with my education. -- Mark Twain
-
 2014-2018, Bachelor of Engineering in Computer Science. <br>
-**Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
+**Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). 
 
-2018-2020, Master of Computing, National University of Singapore.
+2018-2020, Master of Computing, National University of Singapore. <br>Thesis advisor: [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I learned a ton of knowledge from [Wenqiang Lei](https://sites.google.com/view/wenqianghome/home) about dialogue/discourse and conversational recommendation. I also consulted my research to [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), [Tat-Seng Chua](https://www.chuatatseng.com/), and [Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). 
 
-2021- , PhD in Computer Science, National University of Singapore
+2021- , PhD in Computer Science, National University of Singapore. <br>Thesis advisor: [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/).
 
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8&co=1cb2f2&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 
-</body>
+
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
 
