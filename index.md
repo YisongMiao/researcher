@@ -120,7 +120,7 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 ## 2021 {#paper-2021}
 
-[1] Wenqiang Lei, <u>Yisong Miao</u>, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) <span class="label label-purple">NLP</span> Resources to come. [[PDF]](https://cont2lex.github.io/files/8523.LeiW.pdf) [[Slides](https://cont2lex.github.io/files/cont2lex-slides-20min.pdf)] [[Poster]](https://cont2lex.github.io/files/aaai-poster-final.pdf) [[Code and Data](https://cont2lex.github.io)] [[bib](publications/AAAI-21-bib.md)]
+[1] Wenqiang Lei, <u>Yisong Miao</u>, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) [[PDF]](https://cont2lex.github.io/files/8523.LeiW.pdf) [[Slides](https://cont2lex.github.io/files/cont2lex-slides-20min.pdf)] [[Poster]](https://cont2lex.github.io/files/aaai-poster-final.pdf) [[Code and Data](https://cont2lex.github.io)] [[bib](publications/AAAI-21-bib.md)]
 
 <u>One sentence summary:</u> We find not all antonyms exhibit a contrasting meaning in context and provides the first corpus to characterize such a phenomenon. 
 
