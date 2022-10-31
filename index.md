@@ -56,7 +56,7 @@ We tried to submit a paper to COLING '22, but it didn't make in. Please contact 
 
 ## Conversational recommendation (2018-2020)
 
-Traditional recommendation system 
+Users have a hard time to "tell" traditional recommendation system what they like. Recent advances in dialogue/interactive systems unlock new 
 
 
 
