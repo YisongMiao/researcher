@@ -52,14 +52,9 @@ To achieve it, I am studying (have studied) the following topics:
 
 Discourse concerns the organization of text in a coherent and logical manner. It is a perfect discipline to study language understanding because diverse linguistic devices exist and complex reasoning is required. 
 
-The problem is decomposed as:
+The problem is decomposed as:  (1) Can we find a computational proxy for understanding discourse? (2) Can we inject intermediate guidance for better understanding? (3) Neurons for discourse functions and better pretraining strategy.
 
-- **Can we find a computational proxy for understanding discourse?** Despite the strong performance, pretrained language models (PLMs) are said to NOT understand the language [from text alone](https://aclanthology.org/2020.acl-main.463/). But can we say [certain understanding is achieved](https://aclanthology.org/2021.acl-long.143/) when the models [behave like human](https://aclanthology.org/2022.coling-1.8/)?
-- **Intermediate guidance for better understanding?** PLMs are also pruned to adversarial input and spurious features. Can we guide the model with human's intelligence about decision-making [as intermediate input](https://arxiv.org/abs/2203.14465)?
-- **Neurons for discourse functions?** Can we [causally estimate](https://arxiv.org/abs/2202.05262) [different components](http://netdissect.csail.mit.edu/) in PLMs that are responsible for different discourse functions? 
-- **Better pretraining strategy?** Popular PLMs (e.g. BERT) are trained in a [mask] way ([mask]=(simple, stupid, ...)). Are there better pretraining strategies to make it understand the language better?
-
-Under submission. Please contact me if you're interested in reading it!
+Click here for a [longer version](discourse). We have a paper under submission. Please contact me if you're interested in reading it! 
 
 
 
@@ -79,13 +74,7 @@ This is a FYP project by Zi Yun Yang that I co-advised with Prof Min. We tried t
 
 Users have a hard time "telling" recommendation systems what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020](#paper-2020) studied this topic. 
 
-Even though I am not studying this topic currently, I wish the following aspects can be considered by our community:
-
-- **Taxonomy creation**: Existing feature taxonomies are handcrafted. Is there a smart/soft way to build a taxonomy for better system design and evaluation?
-- **Discourse structure:** Existing works (ours included) consider multi-round dialogue in a superficial manner. What features/products in previous rounds **contrast** with those later? What information users heard in previous rounds **caused** their later decision?
-- **Real-world applications:** Many works (ours included) are developed and evaluated in the sandbox -- user simulation. How can we develop systems with (and for) real-world users (with diverse backgrounds, multiplex intent, and language variations)?
-
-**Recommendation:** [Tutorials](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf) by Wenqiang et al. A pretty cool integrated [CRSLab](https://github.com/RUCAIBox/CRSLab) environment by RUC. Talk to my group mate [Victor Li](https://lichuangnus.github.io/) who is currently studying this topic.
+Even though I am not studying this topic currently, I wish the [these aspects](CRS) can be considered by our community in the future.
 
 
 
@@ -103,7 +92,7 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 [1] Saurabh Jain, Yisong Miao, Min-Yen Kan, <u>Comparative Snippet Generation.</u> [ [2022.ecnlp-1.7](https://www.aclweb.org/anthology/2022.ecnlp-1.7/) (@ ACL Anthology) ] [ [Poster (.pdf)](https://www.comp.nus.edu.sg/~kanmy/talks/poster_v2.pdf) ] [ [Dataset (@ GitHub)](https://github.com/wing-nus/comparative-snippet-generation-dataset) ] 
 
-<u>One sentence summary:</u> We create a corpus for product review and experiment with computational models to generate comparative sentences based on the corpus. 
+<!-- <u>One sentence summary:</u> We create a corpus for product review and experiment with computational models to generate comparative sentences based on the corpus.  -->
 
 
 
@@ -111,19 +100,19 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 [1] Wenqiang Lei, <u>Yisong Miao</u>, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) <u>Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence</u> (AAAI '21) [[PDF]](https://cont2lex.github.io/files/8523.LeiW.pdf) [[Slides](https://cont2lex.github.io/files/cont2lex-slides-20min.pdf)] [[Poster]](https://cont2lex.github.io/files/aaai-poster-final.pdf) [[Code and Data](https://cont2lex.github.io)] [[bib](publications/AAAI-21-bib.md)]
 
-<u>One sentence summary:</u> We find not all antonyms exhibit a contrasting meaning in context and provides the first corpus to characterize such a phenomenon. 
+<!-- <u>One sentence summary:</u> We find not all antonyms exhibit a contrasting meaning in context and provides the first corpus to characterize such a phenomenon.  -->
 
 [2] Yisong Miao. (2021). <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [[Slides@Google](https://docs.google.com/presentation/d/1d0xlTMaDiJ_x_VW1rEop4HEhbAZ5piqsC0lPZmGy7bg/edit?usp=sharing)] [[Codebase@GitHub](https://github.com/YisongMiao/Q-Title)]
 
-<u>One sentence summary:</u> We provide a tool to automatically find all questions from paper titles in dblp libarary. 
+<!-- <u>One sentence summary:</u> We provide a tool to automatically find all questions from paper titles in dblp libarary.  -->
 
 [3] Yihao Ang, <u>Yisong Miao</u>* . (\*=Ordered Alphabetically) (2021) <u>Towards Molecular-level Similarity Search based on Text Data.</u> An In-Class Project in CS6219, Advanced Topics in Computer Systems. [[Slides](publications/CS6219-Slides.pdf)@here] [[Code](https://github.com/YisongMiao/text-dna)@GitHub]
 
-<u>One sentence summary:</u> We embed text 🔤 into DNA 🧬 and support similarity search.
+<!-- <u>One sentence summary:</u> We embed text 🔤 into DNA 🧬 and support similarity search. -->
 
 [4] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) (2021) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [[PDF](publications/tech-report-eDQG.pdf)] [Code upon request]
 
-<u>One sentence summary:</u> We explore the importance of nodes and edges for the reasoning in question generation. 
+<!-- <u>One sentence summary:</u> We explore the importance of nodes and edges for the reasoning in question generation.  -->
 
 
 
@@ -131,11 +120,11 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 [1] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
-<u>One sentence summary:</u> We are the first to consider multi-round conversational recommendation and propose a three-step solution for that. 
+<!-- <u>One sentence summary:</u> We are the first to consider multi-round conversational recommendation and propose a three-step solution for that.  -->
 
 [2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). [[PDF]](https://arxiv.org/abs/2007.00194) [[Codes and Project Websites @ Github.io]](https://cpr-conv-rec.github.io/)
 
-<u>One sentence summary:</u> Based on the WSDM work, we consider graph constraints to make the exploration more efficient. 
+<!-- <u>One sentence summary:</u> Based on the WSDM work, we consider graph constraints to make the exploration more efficient.  -->
 
 
 
