@@ -27,13 +27,8 @@ I keep a progress log for my research:
 
 - [2022](log/2022)
 
-My Google Calendar is available here. Carpe Diem!<br>
-<dev>
+My [Google Calendar](#calendar) is also available for my research/TA meetings and discussions. Carpe Diem!<br>
 
-<center>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</center>
-</dev>
 
 ---
 
@@ -191,6 +186,17 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 2018-2020, Master of Computing, National University of Singapore. <br>Thesis advisor: [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I learned a ton of knowledge from [Wenqiang Lei](https://sites.google.com/view/wenqianghome/home) about dialogue/discourse and conversational recommendation. I also consulted my research to [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), [Tat-Seng Chua](https://www.chuatatseng.com/), and [Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). 
 
 2021- , PhD in Computer Science, National University of Singapore. <br>Thesis advisor: [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/).
+
+
+
+# Calendar {#calendar}
+
+<dev>
+
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</center>
+</dev>
 
 
 
