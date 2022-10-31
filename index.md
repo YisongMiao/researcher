@@ -17,9 +17,13 @@ Aloha 👋 You have reached my academic homepage.
 
 I am a second year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I study natural language processing with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
 
-An overview of my research is available [here](#research). 
+Here is an [overview of my research](#research).
 
-Physical Yisong: AS6 Building, meet me in the lab :P <br>Digital Yisong: [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>Email Yisong: [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>I keep a progress log for my research:
+
+
+**Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
+
+I keep a progress log for my research:
 
 - [2022](log/2022)
 
@@ -31,7 +35,7 @@ My Google Calendar is available. Carpe Diem!<br>
 </center>
 </dev>
 
-## Research overview{#research}
+# Research overview {#research}
 
 I am now studying **reasonable natural language understanding** under Prof Min's guidance. [[Project Webpage @ WING-NUS](https://wing.comp.nus.edu.sg/reasoning-nlp/)]<br>I approach it from two angles: <br>(1) 🔤 What reasoning evidence can we find in the language itself (e.g. semantics, structures)? <br>(2) 🌍 What reasoning evidence can we find in the language representation (characteristics of NN, world state implicated by NN)?  <br>
 
