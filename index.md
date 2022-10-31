@@ -39,7 +39,9 @@ My Google Calendar is available here. Carpe Diem!<br>
 
 # Research overview {#research}
 
-My long term goal is to 
+My long term goal is to  explainable ... trustworthy ... 
+
+
 
 I am working (have worked) on these topics. 
 
@@ -47,11 +49,22 @@ I am working (have worked) on these topics.
 
 ## Discourse (2021-)
 
+We have decomposed the problem into ... 
+
+- 
+
+- 
+- 
+
 We are currently submitting. 
 
 
 
 ## Bridging emoji and lexical semantics (2021-)
+
+🐻‍❄️=🐻+冰
+
+
 
 We tried to submit a paper to COLING '22, but it didn't make in. Please contact me if you would like to read our manuscript. 
 
