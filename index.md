@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Yisong Miao's Personal Website
+## Yisong Miao's Academic Homepage
 
 <img class="profile-picture" src="photo.jpg">
 
@@ -39,44 +39,46 @@ My Google Calendar is available here. Carpe Diem!<br>
 
 # Research overview {#research}
 
-My long term goal is to  explainable ... trustworthy ... 
+**One-sentence SOP:** I want to build computational models that understand human's language in an explainable and intelligent way. 
 
-
-
-I am working (have worked) on following topics: 
-
-
+To achieve it, I am studying (have studied) following topics:
 
 ## Discourse (2021-)
 
-We have decomposed the problem into ... 
+Discourse concerns the organization of text in a coherent and logical manner. It is a perfect discipline to study language understanding because diverse linguistic devices exist and complex reasoning is required. 
 
+The problem is decomposed as:
+
+- **Can we find a computational proxy for understanding discourse?** Despite strong performance, pretrained language models (PLMs) are said to NOT understand language [from text alone](https://aclanthology.org/2020.acl-main.463/). But can we say [certain understanding is achieved](https://aclanthology.org/2021.acl-long.143/) when the models [behave like human](https://aclanthology.org/2022.coling-1.8/)?
+
+- Are 
 - 
 
-- 
-- 
-
-We are currently submitting. 
+Under submission. Please contact me if you're interested in reading it!
 
 
 
-## Bridging emoji and lexical semantics (2021-)
+## Bridging emoji and lexical semantics (2021-) {#emoji}
 
 🐻‍❄️=🐻+🧊
 
 
 
-We tried to submit a paper to COLING '22, but it didn't make in. We are now revising the paper. Please contact me if you would like to read our manuscript. 
+This is a FYP project by Zi Yun Yang that I co-advised with Prof Min. We tried to submit a paper to COLING '22, but it didn't make in. We are now revising the paper. Please contact us if you want to read our manuscript. 
 
 
 
-## Conversational recommendation (2018-2020)
+## Conversational recommendation (2018-2020) {#CRS}
 
-Users have a hard time "telling" recommendation system what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020]( {#paper-2020}) studied this topic. 
+Users have a hard time "telling" recommendation system what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020]( #paper-2020) studied this topic. 
 
-Even though I am not studying this topic currently, I wish following problems can be tackled by our community:
+Even though I am not studying this topic currently, I wish following aspects can be considered by our community:
 
-- 
+- **Taxonomy creation**: Existing feature taxonomies are handcrafted. Is there a smart/soft way to build taxonomy for better system design and evaluation?
+- **Discourse structure:** Existing works (ours included) consider multi-round dialogue in a superficial manner. What features/products in previous rounds ***contrast*** with those later? What information users heard in previous rounds ***causes*** their later decision?
+- **Real-world applications:** Many works (ours included) are developed and evaluated in sandbox -- user simulation. How can we develop systems with (and for) real-world users (with diverse background, multiplex intent, and language variations)?
+
+**Recommendation:** [Tutorials](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf) by Wenqiang et al. A pretty cool integrated [CRSLab](https://github.com/RUCAIBox/CRSLab) enviroment by RUC. Talk to my group mate [Victor Li](https://lichuangnus.github.io/) who is currently studying this topic.
 
 
 
@@ -84,7 +86,7 @@ Even though I am not studying this topic currently, I wish following problems ca
 
 # Paper archive {#papers}
 
-Here is an archive for my (co-)authored conference papers, workshop papers and technical reports for in-class projects. 
+Here is an archive for my (co-)authored conference papers, workshop papers and technical reports. 
 
 Some of them belongs to fast research and some to slow research ([😛 wiki here](http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf) from Min's talk on this concept).
 
