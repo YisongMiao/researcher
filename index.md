@@ -103,15 +103,7 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 ## 2022 {#paper-2022}
 
-[1] Yihao Ang, <u>Yisong Miao</u>* . (\*=Ordered Alphabetically) (2021) <u>Towards Molecular-level Similarity Search based on Text Data.</u> An In-Class Project in CS6219, Advanced Topics in Computer Systems. [[Slides](publications/CS6219-Slides.pdf)@here] [[Code](https://github.com/YisongMiao/text-dna)@GitHub]
-
-<u>One sentence summary:</u> We embed text 🔤 into DNA 🧬 and support similarity search.
-
-[2] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) (2021) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [[PDF](publications/tech-report-eDQG.pdf)] [Code upon request]
-
-<u>One sentence summary:</u> We explore the importance of nodes and edges for the reasoning in question generation. 
-
-[3] Saurabh Jain, Yisong Miao, Min-Yen Kan, <u>Comparative Snippet Generation.</u> [ [2022.ecnlp-1.7](https://www.aclweb.org/anthology/2022.ecnlp-1.7/) (@ ACL Anthology) ] [ [Poster (.pdf)](https://www.comp.nus.edu.sg/~kanmy/talks/poster_v2.pdf) ] [ [Dataset (@ GitHub)](https://github.com/wing-nus/comparative-snippet-generation-dataset) ] 
+[1] Saurabh Jain, Yisong Miao, Min-Yen Kan, <u>Comparative Snippet Generation.</u> [ [2022.ecnlp-1.7](https://www.aclweb.org/anthology/2022.ecnlp-1.7/) (@ ACL Anthology) ] [ [Poster (.pdf)](https://www.comp.nus.edu.sg/~kanmy/talks/poster_v2.pdf) ] [ [Dataset (@ GitHub)](https://github.com/wing-nus/comparative-snippet-generation-dataset) ] 
 
 <u>One sentence summary:</u> We create a corpus for product review and experiment with computational models to generate comparative sentences based on the corpus. 
 
@@ -126,6 +118,14 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 [2] Yisong Miao. (2021). <u>Mining and Analyzing Questions from Paper Titles.</u> An Engineering Trial Task. [[Slides@Google](https://docs.google.com/presentation/d/1d0xlTMaDiJ_x_VW1rEop4HEhbAZ5piqsC0lPZmGy7bg/edit?usp=sharing)] [[Codebase@GitHub](https://github.com/YisongMiao/Q-Title)]
 
 <u>One sentence summary:</u> We provide a tool to automatically find all questions from paper titles in dblp libarary. 
+
+[3] Yihao Ang, <u>Yisong Miao</u>* . (\*=Ordered Alphabetically) (2021) <u>Towards Molecular-level Similarity Search based on Text Data.</u> An In-Class Project in CS6219, Advanced Topics in Computer Systems. [[Slides](publications/CS6219-Slides.pdf)@here] [[Code](https://github.com/YisongMiao/text-dna)@GitHub]
+
+<u>One sentence summary:</u> We embed text 🔤 into DNA 🧬 and support similarity search.
+
+[4] Yong Liang Goh* , Yongbin Li* , <u>Yisong Miao</u>\*. (\*=Ordered Alphabetically) (2021) <u>Connecting the Dots: Explaining Human Reasoning on the Graph. A Case Study on Deep Question Generation.</u> An In-Class Paper in CS6208, Advanced Topics in AI. [[PDF](publications/tech-report-eDQG.pdf)] [Code upon request]
+
+<u>One sentence summary:</u> We explore the importance of nodes and edges for the reasoning in question generation. 
 
 
 
