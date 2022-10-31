@@ -43,7 +43,7 @@ My long term goal is to  explainable ... trustworthy ...
 
 
 
-I am working (have worked) on these topics. 
+I am working (have worked) on following topics: 
 
 
 
@@ -62,21 +62,21 @@ We are currently submitting.
 
 ## Bridging emoji and lexical semantics (2021-)
 
-🐻‍❄️=🐻+冰
+🐻‍❄️=🐻+🧊
 
 
 
-We tried to submit a paper to COLING '22, but it didn't make in. Please contact me if you would like to read our manuscript. 
+We tried to submit a paper to COLING '22, but it didn't make in. We are now revising the paper. Please contact me if you would like to read our manuscript. 
 
 
 
 ## Conversational recommendation (2018-2020)
 
-Users have a hard time "telling" recommendation system what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My co-authored papers in 2020 studied this topic. 
+Users have a hard time "telling" recommendation system what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020]( {#paper-2020}) studied this topic. 
 
+Even though I am not studying this topic currently, I wish following problems can be tackled by our community:
 
-
-
+- 
 
 
 
@@ -136,19 +136,23 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 # Teaching and Mentoring
 
+I list my TAs and mentorships in a reverse chronological order:
+
 ## TA:
 
-- 2021-2022 Fall. CS3244 ML. (Student experience)
-- 2021-2022 Spring. CS4248 NLP. (Tutorial leader and project consultation)
-- 2022-2023 Fall. CS5228 KDD. (Primarily for grading)
-- 2022-2023 Spring. CS4248 NLP. (I wish I can TA it again) (TBD)
+- 2022-2023 Spring. CS4248 Natural Language Processing. (TBD. I wish I can TA it again 😉) 
+- 2022-2023 Fall. CS5228 Knowledge Discovery and Data Mining. (Primarily for grading)
+- 2021-2022 Spring. CS4248 Natural Language Processing. (Tutorial leader and project consultation).
+- 2021-2022 Fall. CS3244 Machine Learning. (Student experience)
 
 ## Mentoring:
 
-- Saurabh Jain. Graduated 2021 Winter. *<u>Comparative Snippet Generation.</u>* [ECNLP@ACL'22](https://aclanthology.org/2022.ecnlp-1.7/).
 - Zi Yun Yang. Graduated 2022 Spring. Topics about emoji composition and lexical semantics. [Outstanding Undergraduate Researcher Prize](https://www.comp.nus.edu.sg/news/2022-ourp-ocp-2122/) (OURP, 5 out of 1k+). 
+- Saurabh Jain. Graduated 2021 Winter. *<u>Comparative Snippet Generation.</u>* [ECNLP@ACL'22](https://aclanthology.org/2022.ecnlp-1.7/).
 
 
+
+---
 
 # Service
 
