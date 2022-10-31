@@ -13,7 +13,7 @@ layout: default
 
 # About
 
-Aloha 👋 You have reached my academic homepage. 
+Aloha 👋 You have reached my 1-page style academic homepage. 
 
 I am a second year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I study natural language processing with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
 
@@ -33,12 +33,15 @@ My Google Calendar is available here. Carpe Diem!<br>
 <center>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FManila&amp;src=ZTNvcTIwbXBqYzMyMDc4OG1zajNpZm84M3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </center>
-
 </dev>
+
+---
 
 # Research overview {#research}
 
-I am working (have worked) on these research topics. 
+My long term goal is to 
+
+I am working (have worked) on these topics. 
 
 
 
@@ -56,7 +59,7 @@ We tried to submit a paper to COLING '22, but it didn't make in. Please contact 
 
 ## Conversational recommendation (2018-2020)
 
-Users have a hard time to "tell" traditional recommendation system what they like. Recent advances in dialogue/interactive systems unlock new 
+Users have a hard time "telling" recommendation system what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My co-authored papers in 2020 studied this topic. 
 
 
 
@@ -106,7 +109,11 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 [1] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> In Proceedings of the Thirteenth ACM International Conference on Web Search and Data Mining (WSDM '20). [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
-[2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). <span class="label label-blue">recommender system</span>  <span class="label label-yellow">conversational recommender system</span>  <span class="label label-green">knowledge graph</span>  <span class="label label-orange">ML / RL</span>  [[PDF]](https://arxiv.org/abs/2007.00194) [[Codes and Project Websites @ Github.io]](https://cpr-conv-rec.github.io/)
+<u>One sentence summary:</u> We are the first to consider multi-round conversational recommendation and propose a three-step solution for that. 
+
+[2] Wenqiang Lei, Gangyi Zhang, Xiangnan He, <u>Yisong Miao</u>, Xiang Wang, Liang Chen and Tat-Seng Chua (2020). <u>Interactive Path Reasoning on Graph for Conversational Recommendation</u>. (KDD '20). [[PDF]](https://arxiv.org/abs/2007.00194) [[Codes and Project Websites @ Github.io]](https://cpr-conv-rec.github.io/)
+
+<u>One sentence summary:</u> Based on the WSDM work, we consider graph constraints to make the exploration more efficient. 
 
 
 
