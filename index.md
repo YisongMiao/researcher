@@ -21,7 +21,7 @@ Here is an [overview of my research](#research).
 
 
 
-**Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
+**Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] [[Out-dated 1-page CV](https://yisong.me/Yisong-CV-2021-Feb.pdf)]<br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
 
 I keep a progress log for my research:
 
