@@ -48,7 +48,7 @@ My [Google Calendar](#calendar) is also available at the end of the page. Carpe 
 
 **One-sentence SOP:** I want to build computational models that understand human's language in an explainable and intelligent way. 
 
-To achieve it, I am studying (have studied) following topics:
+To achieve it, I am studying (have studied) the following topics:
 
 ## Discourse (2021-)
 
@@ -56,11 +56,10 @@ Discourse concerns the organization of text in a coherent and logical manner. It
 
 The problem is decomposed as:
 
-- **Can we find a computational proxy for understanding discourse?** Despite strong performance, pretrained language models (PLMs) are said to NOT understand language [from text alone](https://aclanthology.org/2020.acl-main.463/). But can we say [certain understanding is achieved](https://aclanthology.org/2021.acl-long.143/) when the models [behave like human](https://aclanthology.org/2022.coling-1.8/)?
-
-- **Intermediate guidance for better understanding?** PLMs are also prune to adversarial input and spurious features. Can we guide the model with human's intelligence about decision making [as intermediate input](https://arxiv.org/abs/2203.14465)?
-- **Neurons for discourse functions?** Can we [causally estimate](https://arxiv.org/abs/2202.05262) [different components](http://netdissect.csail.mit.edu/) in PLMs that responsible for different discourse functions? 
-- **Better pretraining strategy?** Popular PLMs (e.g. BERT) are trained in a [mask] way ([mask]=(simple, stupid, ...)). Are there better pretraining strategies to make it understand language better?
+- **Can we find a computational proxy for understanding discourse?** Despite the strong performance, pretrained language models (PLMs) are said to NOT understand the language [from text alone](https://aclanthology.org/2020.acl-main.463/). But can we say [certain understanding is achieved](https://aclanthology.org/2021.acl-long.143/) when the models [behave like human](https://aclanthology.org/2022.coling-1.8/)?
+- **Intermediate guidance for better understanding?** PLMs are also pruned to adversarial input and spurious features. Can we guide the model with human's intelligence about decision-making [as intermediate input](https://arxiv.org/abs/2203.14465)?
+- **Neurons for discourse functions?** Can we [causally estimate](https://arxiv.org/abs/2202.05262) [different components](http://netdissect.csail.mit.edu/) in PLMs that are responsible for different discourse functions? 
+- **Better pretraining strategy?** Popular PLMs (e.g. BERT) are trained in a [mask] way ([mask]=(simple, stupid, ...)). Are there better pretraining strategies to make it understand the language better?
 
 Under submission. Please contact me if you're interested in reading it!
 
@@ -80,15 +79,15 @@ This is a FYP project by Zi Yun Yang that I co-advised with Prof Min. We tried t
 
 ## Conversational recommendation (2018-2020) {#CRS}
 
-Users have a hard time "telling" recommendation system what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020]( #paper-2020) studied this topic. 
+Users have a hard time "telling" recommendation systems what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020](#paper-2020) studied this topic. 
 
-Even though I am not studying this topic currently, I wish following aspects can be considered by our community:
+Even though I am not studying this topic currently, I wish the following aspects can be considered by our community:
 
-- **Taxonomy creation**: Existing feature taxonomies are handcrafted. Is there a smart/soft way to build taxonomy for better system design and evaluation?
-- **Discourse structure:** Existing works (ours included) consider multi-round dialogue in a superficial manner. What features/products in previous rounds ***contrast*** with those later? What information users heard in previous rounds ***causes*** their later decision?
-- **Real-world applications:** Many works (ours included) are developed and evaluated in sandbox -- user simulation. How can we develop systems with (and for) real-world users (with diverse background, multiplex intent, and language variations)?
+- **Taxonomy creation**: Existing feature taxonomies are handcrafted. Is there a smart/soft way to build a taxonomy for better system design and evaluation?
+- **Discourse structure:** Existing works (ours included) consider multi-round dialogue in a superficial manner. What features/products in previous rounds ***contrast\*** with those later? What information users heard in previous rounds ***caused\*** their later decision?
+- **Real-world applications:** Many works (ours included) are developed and evaluated in the sandbox -- user simulation. How can we develop systems with (and for) real-world users (with diverse backgrounds, multiplex intent, and language variations)?
 
-**Recommendation:** [Tutorials](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf) by Wenqiang et al. A pretty cool integrated [CRSLab](https://github.com/RUCAIBox/CRSLab) enviroment by RUC. Talk to my group mate [Victor Li](https://lichuangnus.github.io/) who is currently studying this topic.
+**Recommendation:** [Tutorials](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf) by Wenqiang et al. A pretty cool integrated [CRSLab](https://github.com/RUCAIBox/CRSLab) environment by RUC. Talk to my group mate [Victor Li](https://lichuangnus.github.io/) who is currently studying this topic.
 
 
 
