@@ -29,6 +29,18 @@ I keep a progress log for my research:
 
 My [Google Calendar](#calendar) is also available at the end of the page. Carpe Diem!<br>
 
+**Table of content:**
+
+- [Research overview](#research)
+
+- [Paper archive](papers)
+
+- [Teaching and mentoring](TaM)
+
+- [Service](#service)
+
+- [Education](edu)
+
 
 ---
 
@@ -56,13 +68,13 @@ Under submission. Please contact me if you're interested in reading it!
 
 ## Bridging emoji and lexical semantics (2021-) {#emoji}
 
-Emoji inspired people to text creatively. We observe many people composes several emojis together to express a new meaning. For example:
+Emojis inspire people to text creatively. People compose several emojis together to express a new meaning. For example:
 
-🐻‍❄️=🐻+🧊
+🐻‍❄️=🐻+🧊, where 🐻‍❄️ is a composition of a bear 🐻 and ice 🧊 (means it is cold).
 
+We have created a new dataset for concepts and their corresponding emoji compositions. We also have a model to learn such composition.
 
-
-This is a FYP project by Zi Yun Yang that I co-advised with Prof Min. We tried to submit a paper to COLING '22, but it didn't make in. We are now revising the paper. Please contact us if you want to read our manuscript. 
+This is a FYP project by Zi Yun Yang that I co-advised with Prof Min. We tried to submit a paper to COLING '22, but it didn't make in. We are now revising the paper. Please contact us if you want to read our manuscript.
 
 
 
@@ -134,7 +146,7 @@ Some of them belongs to fast research and some to slow research ([😛 wiki here
 
 
 
-# Teaching and Mentoring
+# Teaching and Mentoring {#TaM}
 
 I list my TAs and mentorships in a reverse chronological order:
 
@@ -154,7 +166,7 @@ I list my TAs and mentorships in a reverse chronological order:
 
 ---
 
-# Service
+# Service {#service}
 
 Dear mate, if you are a Program Chair or Area Chair visiting my site, I would be very happy to be a reviewer for conference in following areas: IR/NLP/DM with their methods using ML/RL/DL.
 
@@ -180,7 +192,7 @@ I always read the papers multiple times (2-3 times) and wait a few days (1-2 day
 
 
 
-# Education
+# Education {#edu}
 
 2014-2018, Bachelor of Engineering in Computer Science. <br>
 **Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). 
