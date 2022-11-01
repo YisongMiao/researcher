@@ -6,7 +6,7 @@ An archive for my past research in conversational recommendation.
 
 Users have a hard time "telling" recommendation systems what they like. Recent advances in dialogue systems unlock new possibilities for user interactions. My [co-authored papers in 2020](#paper-2020) studied this topic. 
 
-Even though I am not studying this topic currently, I wish the [these aspects](https://yisong.me/CRS) can be considered by our community in the future.
+Even though I am not studying this topic currently, I wish following aspects👇 can be considered by our community in the future.
 
 
 
