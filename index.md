@@ -52,9 +52,9 @@ To achieve it, I am studying (have studied) the following topics:
 
 Discourse concerns the organization of text in a coherent and logical manner. It is a perfect discipline to study language understanding because diverse linguistic devices exist and complex reasoning is required. 
 
-The problem is decomposed as:  (1) Can we find a computational proxy for understanding discourse? (2) Can we inject intermediate guidance for better understanding? (3) Neurons for discourse functions and better pretraining strategy.
+The problem is decomposed as:  (1) Can we find a computational proxy for understanding discourse? (2) Can we inject intermediate guidance for better understanding? (3) Can we identify key neurons/subnetworks for discourse functions and design a better pretraining strategy?
 
-Click here for a [longer version](discourse). We have a paper under submission. Please contact me if you're interested in reading it! 
+Here is a [longer version for my SOP](discourse). We have a paper under submission. Please contact me if you're interested in reading it! 
 
 
 
