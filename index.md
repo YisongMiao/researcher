@@ -64,7 +64,7 @@ Emojis inspire people to text creatively. People compose several emojis together
 
 🐻‍❄️=🐻+🧊, where 🐻‍❄️ is a composition of a bear 🐻 and ice 🧊 (means it is cold).
 
-We have created a new dataset for concepts and their corresponding emoji compositions. We also have a model to learn such composition.
+Standard languages (e.g. English) is the main focus for [lexical composition](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00277/43521/Still-a-Pain-in-the-Neck-Evaluating-Text) research. We create a new dataset for emoji compositions with their corresponding concept. We also have a model to learn such composition.
 
 This is a FYP project by Zi Yun Yang that I co-advised with Prof Min. We tried to submit a paper to COLING '22, but it didn't make in. We are now revising the paper. Please contact us if you want to read our manuscript.
 
