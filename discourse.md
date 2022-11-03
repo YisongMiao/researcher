@@ -6,3 +6,7 @@ The problem is decomposed as:
 - **Intermediate guidance for better understanding?** PLMs are also pruned to adversarial input and spurious features. Can we guide the model with human's intelligence about decision-making [as intermediate input](https://arxiv.org/abs/2203.14465)?
 - **Neurons for discourse functions?** Can we [causally estimate](https://arxiv.org/abs/2202.05262) [different components](http://netdissect.csail.mit.edu/) in PLMs that are responsible for different discourse functions? 
 - **Better pretraining strategy?** Popular PLMs (e.g. BERT) are trained in a [mask] way ([mask]=(simple, stupid, ...)). Are there better pretraining strategies to make it understand the language better?
+
+
+
+We have a paper under submission. Please contact me if you’re interested in reading it!
