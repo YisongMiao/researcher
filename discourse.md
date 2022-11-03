@@ -1,3 +1,9 @@
+**One-sentence SOP:** I want to build computational models that understand human's language in an explainable and intelligent way. 
+
+
+
+## Discourse
+
 Discourse concerns the organization of text in a coherent and logical manner. It is a perfect discipline to study language understanding because diverse linguistic devices exist and complex reasoning is required. 
 
 The problem is decomposed as:
