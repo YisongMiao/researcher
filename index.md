@@ -58,7 +58,7 @@ Here is a [longer version for my SOP](discourse). We have a paper under submissi
 
 
 
-## Bridging emoji and lexical semantics (2021-) {#emoji}
+## Emoji (2021-) {#emoji}
 
 Emojis inspire people to text creatively. People compose several emojis together to express a new meaning. For example:
 
