@@ -44,7 +44,7 @@ My [Google Calendar](#calendar) is also available at the end of the page. Carpe 
 
 # Research overview {#research}
 
-**One-sentence SOP:** I want to build computational models that understand human's language in an explainable and intelligent way. 
+**One-sentence SOP:** I want to build computational models that **understand** human's language in an **explainable** and **intelligent** way. 
 
 To achieve it, I am studying (have studied) the following topics:
 
