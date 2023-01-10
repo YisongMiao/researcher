@@ -23,6 +23,7 @@ I am a second year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](ht
 
 I keep a progress log for my research:
 
+- [2023](log/2023)
 - [2022](log/2022)
 
 My [Google Calendar](#calendar) is also available at the end of the page. Carpe Diem!<br>
