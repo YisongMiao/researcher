@@ -15,7 +15,7 @@ layout: default
 
 Aloha 👋 You have reached my 1-page style academic homepage. 
 
-I am a second year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I study natural language processing with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
+I am a third year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](https://comp.nus.edu.sg/)-[NUS](https://nus.edu.sg/). I study natural language processing with [Prof Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy). 
 
 
 

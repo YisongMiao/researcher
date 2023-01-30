@@ -4,7 +4,7 @@
 
 - [Ms. Xin Wang](https://wangxinalice.com) and I have spent seven wonderful years together. We have grown from freshmen in college to a successful investor and ... an ordinary PhD student :D. 
 
-  We now find that it is not the best for us to grow as a couple to realize our goals. Xin is an amazing person with many characters I admire. She is a careful listener, a passionate learner, and always a good friend of mine. I welcome all my friends to reach out to her if you find a common interest with her. 
+  But now we find that it is not the best for us to continue growing as a couple. Xin will remain a special person of mine. She is an amazing person with many characters I admire. I welcome my friends to reach out to her if you find a common interest with her. 
 
 - [Zek Chang](https://twitter.com/zekchang) is the founder of [Guduo Inc.](http://www.guduokeji.com/), a technical start-up company headquartered in Beijing. Guduo solves general software engineering tasks as an intelligent outsourcing problem. Zek and me are both emotional men (at bar), we have similar taste in tech, music and arts. Our nights celebrated at the MEI bar have become one of my most impressive memories in Beijing, thanks for your drinks and accompanying. <span style="color:red">Please get in touch with Zek if you have a big idea to be realized with tremendous quality and speed!</span>
 - [Junda Zhang](http://aheader.org) is the same batch of master student at SoC with me. We collaborated in [CS5228 Kaggle Competiton](https://kaggle.com/c/cs5228-article-category-prediction) and won the first-runner-up! [Code](https://github.com/YisongMiao/CS5228-project). Junda has vast interest in machine learning and deep learning systems.  
