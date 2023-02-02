@@ -28,6 +28,8 @@ I keep a progress log for my research:
 
 My [Google Calendar](#calendar) is also available at the end of the page. Carpe Diem!<br>
 
+A list of my recent reading is [here](reading). 
+
 **Table of content:**
 
 - [Research overview](#research)
