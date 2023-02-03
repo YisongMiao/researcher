@@ -11,8 +11,10 @@ nav:
  #   link: "https://yisong.me/UCMW/index"
  - name: "MLP Blog"
    link: "https://yisong.me/MLP"
- - name: "Friends"
-   link: "https://yisong.me/friends"
+   - name: "Readings"
+   link: "https://yisong.me/reading"
+ # - name: "Friends"
+ #   link: "https://yisong.me/friends"
  - name: "Home"
    link: "https://yisong.me"
 
