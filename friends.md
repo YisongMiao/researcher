@@ -1,11 +1,5 @@
 # Yisong's friends
 
-
-
-- [Ms. Xin Wang](https://wangxinalice.com) and I have spent seven wonderful years together. We have grown from freshmen in college to a successful investor and ... an ordinary PhD student :D. 
-
-  But now we find that it is not the best for us to continue growing as a couple. Xin will remain a special person of mine. She is an amazing person with many characters I admire. I welcome my friends to reach out to her if you find a common interest with her. 
-
 - [Zek Chang](https://twitter.com/zekchang) is the founder of [Guduo Inc.](http://www.guduokeji.com/), a technical start-up company headquartered in Beijing. Guduo solves general software engineering tasks as an intelligent outsourcing problem. Zek and me are both emotional men (at bar), we have similar taste in tech, music and arts. Our nights celebrated at the MEI bar have become one of my most impressive memories in Beijing, thanks for your drinks and accompanying. <span style="color:red">Please get in touch with Zek if you have a big idea to be realized with tremendous quality and speed!</span>
 - [Junda Zhang](http://aheader.org) is the same batch of master student at SoC with me. We collaborated in [CS5228 Kaggle Competiton](https://kaggle.com/c/cs5228-article-category-prediction) and won the first-runner-up! [Code](https://github.com/YisongMiao/CS5228-project). Junda has vast interest in machine learning and deep learning systems.  
 - [Chaoren Li](http://chaoren-li.com) is a nice gentleman. He generously offered me his bedroom during my visit to the Bay Area in Spring 2020. He is now a software engineer leader at Google, solving major techinical problem with global impact! To be specific, he is the main designer for a key component for YouTube Apps. Please get in touch with Chaoren if you want to know more!
