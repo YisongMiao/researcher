@@ -161,9 +161,21 @@ I list my TAs and mentorships in a reverse chronological order:
 
 [... Forgot to record for a long time!] 
 
+
+
+## 2023
+
+AAAI 2023 (by myself)
+
+ACL 2023 (4 papers w/ Ziqing Zhang as secondary reviewer)
+
+
+
 ## 2022
 
-ACL Rolling Review. EMNLP 2022. AAAI 2023. 
+ACL Rolling Review (by myself)
+
+EMNLP 2022 (4~6 papers, I forgot, by myself)
 
 
 
