@@ -157,6 +157,14 @@ I list my TAs and mentorships in a reverse chronological order:
 
 # Service {#service}
 
+## Conference organization
+
+NSSDM 2023 (Kudos to Wenjie and Hao for inviting me to co-host it with Prof Chua and Prof Min). 
+
+Webpage: https://wing-nus.github.io/NSSDM-2023/ It is a local sub-event of WSDM 2023 @ SG. 
+
+
+
 ## Program Committee / Reviewer
 
 [... Forgot to record for a long time!] 
@@ -168,6 +176,8 @@ I list my TAs and mentorships in a reverse chronological order:
 AAAI 2023 (by myself)
 
 ACL 2023 (4 papers w/ Ziqing Zhang as secondary reviewer)
+
+
 
 
 
