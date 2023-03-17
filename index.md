@@ -175,7 +175,7 @@ Webpage: https://wing-nus.github.io/NSSDM-2023/ It is a local sub-event of WSDM 
 
 AAAI 2023 (by myself)
 
-ACL 2023 (4 papers w/ Ziqing Zhang as secondary reviewer)
+ACL 2023 (4 papers w/ Ziqing Zhang as secondary reviewer, and 1 paper as emergency reviewer by myself). 
 
 
 
