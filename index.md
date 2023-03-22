@@ -161,7 +161,7 @@ I list my TAs and mentorships in a reverse chronological order:
 
 NSSDM 2023 (Kudos to Wenjie and Hao for inviting me to co-host it with Prof Chua and Prof Min). 
 
-Webpage: https://wing-nus.github.io/NSSDM-2023/ It is a local sub-event of WSDM 2023 @ SG. 
+Webpage: [https://wing-nus.github.io/NSSDM-2023/](https://wing-nus.github.io/NSSDM-2023/) It is a local sub-event of WSDM 2023 @ SG. 
 
 
 
