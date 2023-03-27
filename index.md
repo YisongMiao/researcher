@@ -4,7 +4,7 @@ layout: default
 
 ## Yisong Miao's Academic Homepage
 
-<img class="profile-picture" src="photo.jpg">
+<img class="profile-picture" src="photo-2023.jpg">
 
 
 
