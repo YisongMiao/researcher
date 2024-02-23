@@ -22,9 +22,9 @@ My work involves developing new datasets, evaluation methods, and inference algo
 ## Papers
 I only list my **🔝3️⃣📜** here ([Complete list](papers) is also available):
 
-[1] <u>*A paper about discourse semantics*</u> Under review. <br>
-[2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. <u>*ELCo Dataset: Bridging Emoji and Lexical Composition.*\*</u> LREC-COLING 2024. <br>
-[3] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>*Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.*</u> WSDM 2020. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
+[1] <u><i>A paper about discourse semantics</i></u> Under review. <br>
+[2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. <u><i>ELCo Dataset: Bridging Emoji and Lexical Composition.</i>\*</u> LREC-COLING 2024. <br>
+[3] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u><i>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</i></u> WSDM 2020. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
 \* This paper is based on an UG thesis I co-advised with Prof Min. 
 
