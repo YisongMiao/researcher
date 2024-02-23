@@ -16,13 +16,12 @@ I am a fourth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](ht
 
 # Papers {#papers}
 
-**Three proudest papers:**
+I only list my **three proudest papers** ([Complete list](papers)):
 
-[0] A paper about discourse semantics, under review. <br>
-[1] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. <u>ELCo Dataset: Bridging Emoji and Lexical Composition.</u> LREC-COLING 2024. It is an UG thesis I co-advised with Prof Min. <br>
-[2] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> WSDM 2020. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
+[1] A paper about discourse semantics, under review. <br>
+[2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. <u>ELCo Dataset: Bridging Emoji and Lexical Composition.</u> LREC-COLING 2024. It is an UG thesis I co-advised with Prof Min. <br>
+[3] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> WSDM 2020. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
-[Complete list](papers).
 
 # More information {#mi}
 My favorite singer is [Khalil Fong](https://khalilfong.com).<br>My favorite composer is [Frédéric Chopin](https://youtu.be/UcOjKXIR8Iw?si=a60Lmo8h_NIYPAxS).<br>My favorite driver is [Charles Leclerc](https://youtu.be/h-ce3gPMsGc?si=JC0MY-DFGm3AKzXw).
