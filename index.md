@@ -17,8 +17,9 @@ I am a fourth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](ht
 # Papers {#papers}
 
 **Three proudest papers:**
-[0] A paper about discourse semantics, under review. 
-[1] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. LREC-COLING 2024. It is an UG thesis I co-advised with Prof Min. 
+
+[0] A paper about discourse semantics, under review. <br>
+[1] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. LREC-COLING 2024. It is an UG thesis I co-advised with Prof Min. <br>
 [2] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</u> WSDM 2020. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
 [Complete list](papers).
