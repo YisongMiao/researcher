@@ -16,7 +16,7 @@ I am a fourth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](ht
 
 # Papers {#papers}
 
-I only list my **three proudest papers** ([Complete list](papers)):
+I only list my **three proudest papers** here ([Complete list](papers) is also available):
 
 [1] A paper about discourse semantics, under review. <br>
 [2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u>. <u>ELCo Dataset: Bridging Emoji and Lexical Composition.</u> LREC-COLING 2024. It is an UG thesis I co-advised with Prof Min. <br>
