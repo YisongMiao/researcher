@@ -20,7 +20,7 @@ I study how language models interpret meanings, relationships, and structures in
 My work involves developing new datasets, evaluation methods, and inference algorithms to advance understanding.
 
 ## Papers
-I only list my **🔝3️⃣📜** here ([Complete list](papers) is also available):
+I only list my **🔝 3️⃣ 📜** here ([Complete list](papers) is also available):
 
 [📜1] <u><i>A paper about discourse semantics</i></u> Under review. <br>
 [📜2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> (2024). <u><i>ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u>\* LREC-COLING 2024. <br>
