@@ -15,9 +15,11 @@ I am a fourth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](ht
 **Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] [[Out-dated 1-page CV](https://yisong.me/Yisong-CV-2021-Feb.pdf)]<br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
 
 # Research {#papers}
+## Overview
 I study how language models interpret meanings, relationships, and structures in linguistic elements like discourse and emojis. 
 My work involves developing new datasets, evaluation methods, and inference algorithms to advance understanding.
 
+## Papers
 I only list my **three proudest papers** here ([Complete list](papers) is also available):
 
 [1] A paper about discourse semantics, under review. <br>
@@ -27,10 +29,10 @@ I only list my **three proudest papers** here ([Complete list](papers) is also a
 \* This paper is based on an UG thesis I co-advised with Prof Min. 
 
 # More information {#mi}
-My favorite singer is [Khalil Fong](https://khalilfong.com).<br>My favorite composer is [Frédéric Chopin](https://youtu.be/UcOjKXIR8Iw?si=a60Lmo8h_NIYPAxS).<br>My favorite driver is [Charles Leclerc](https://youtu.be/h-ce3gPMsGc?si=JC0MY-DFGm3AKzXw).
+## Favorites
+My favorite singer is [Khalil Fong](https://khalilfong.com).<br>My favorite composer is [Frédéric Chopin](https://youtu.be/UcOjKXIR8Iw?si=a60Lmo8h_NIYPAxS).<br>My favorite drive is [Charles Leclerc](https://youtu.be/h-ce3gPMsGc?si=JC0MY-DFGm3AKzXw).
 
-
-Recent readings:
+## Recent readings
 - *A History of Western Philosophy* by Bertrand Russell
 - *Elon Musk* by Walter Isaacson
 
