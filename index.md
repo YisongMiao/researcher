@@ -14,7 +14,9 @@ I am a fourth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](ht
 
 **Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] [[Out-dated 1-page CV](https://yisong.me/Yisong-CV-2021-Feb.pdf)]<br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
 
-# Papers {#papers}
+# Research {#papers}
+I study how language models interpret meanings, relationships, and structures in linguistic elements like discourse and emojis. 
+My work involves developing new datasets, evaluation methods, and inference algorithms to advance understanding.
 
 I only list my **three proudest papers** here ([Complete list](papers) is also available):
 
