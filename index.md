@@ -28,7 +28,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](papers) is also avail
 
 \* 📜1: My first PhD paper.
 \* 📜2: This paper is an extension of a project I co-advised with Prof Min (unfortunately or fortunately I have to do the coding and writeup by myself since the student has graduated).
-\* 📜3: My first ever paper! I am thankful to my teachers 🙇‍♂️
+\* 📜3: My first ever paper! There are so many grindings and eurekas. I am thankful to my teachers 🙇‍♂️
 
 # More information {#mi}
 ## Favorites
