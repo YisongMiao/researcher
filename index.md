@@ -27,7 +27,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](papers) is also avail
 [📜3] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u><i>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</i></u> WSDM 2020. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
 \* 📜1: My first PhD paper.<br>
-\* 📜2: This paper is an extension of a project I co-advised with Prof Min (unfortunately or fortunately I have to do the coding and writeup by myself since the student has graduated).<br>
+\* 📜2: This paper is an extension of a project I co-advised with Prof Min (unfortunately or fortunately I have to do the corpus study, experimentations and write the paper by myself since the student has graduated).<br>
 \* 📜3: My first ever paper! There are so many grindings and eurekas. I am thankful to my teachers 🙇‍♂️<br>
 
 # More information {#mi}
