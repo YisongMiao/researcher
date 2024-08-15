@@ -39,7 +39,6 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3).<br>My favor
 - *A History of Western Philosophy* by Bertrand Russell
 - *Elon Musk* by Walter Isaacson
 
-I keep a progress log for my research: [2024](log/2024), [2023](log/2023), [2022](log/2022) (Caveat: occasionally updated and not up-to-date). 
 
 My [Google Calendar](#calendar) is here. Carpe Diem!<br>
 
