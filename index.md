@@ -37,6 +37,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3).<br>My favorite composer is [Frédéric Chopin](https://youtu.be/UcOjKXIR8Iw?si=a60Lmo8h_NIYPAxS).<br>My favorite driver is [Charles Leclerc](https://youtu.be/h-ce3gPMsGc?si=JC0MY-DFGm3AKzXw).
 
 ## Recent readings
+- *Logics in Conversation* by Nicholas Asher
 - *A History of Western Philosophy* by Bertrand Russell
 - *Elon Musk* by Walter Isaacson
 
