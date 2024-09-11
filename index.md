@@ -24,11 +24,11 @@ My work involves developing new datasets, evaluation methods, and inference algo
 I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also available):
 
 [📜1]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> **ACL 2024**. 
-[[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] <br>
+[[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] ⭐️ Area Chair Award ⭐️ <br> 
 [📜2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> (2024). <u><i>The ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u>\* **LREC-COLING 2024**. [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
 [📜3] Wenqiang Lei, Xiangnan He, <u>Yisong Miao</u>, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat Seng Chua (2020). <u><i>Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.</i></u> **WSDM 2020**. [[PDF](https://yisong.me/publications/wsdm20-EARS.pdf)]  [[Slides](https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf)] [[Poster](https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf)]  [[Codes and Project Websites @ Github.io](https://ear-conv-rec.github.io/)] 
 
-\* 📜1: My first PhD paper.<br>
+\* 📜1: I am honored and incredibly grateful to be recognized by our small yet wonderful community. 🙇‍♂️ Let’s continue creating exciting research on discourse together!<br>
 \* 📜2: This paper is an extension of a project I co-advised with Prof Min (unfortunately or fortunately I have to do the corpus study, experimentations and write the paper by myself since the student has graduated).<br>
 \* 📜3: My first ever paper! There are so many grindings and eurekas. I am thankful to my teachers 🙇‍♂️<br>
 
