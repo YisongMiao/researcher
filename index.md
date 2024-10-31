@@ -32,7 +32,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 [📜3] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> (2024). <u><i>The ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u>\* **LREC-COLING 2024**. [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
 
 \* 📜1: Ongoing research. <br>
-\* 📜2: I am honored and incredibly grateful to be recognized by our small yet wonderful community. 🙇‍♂️ I am motivated to discover more knowledge about discourse with/for LLMs!<br>
+\* 📜2: I am honored and incredibly grateful to be recognized by our small yet wonderful community. 🙇‍♂️ I am motivated to discover more knowledge about discourse in/for LLMs!<br>
 \* 📜3: Co-advised with Prof Min. He was omitted from the author list for his chair duty's COI at LREC-COLING. I re-wrote the paper with new experiments after advisee's graduation. <br>
 
 # More information {#mi}
