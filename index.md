@@ -33,7 +33,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 
 \* 📜1: Ongoing research. <br>
 \* 📜2: I am honored and incredibly grateful to be recognized by our small yet wonderful community. 🙇‍♂️ I am motivated to discover more knowledge about discourse in/for LLMs!<br>
-\* 📜3: Co-advised with Prof Min. He was omitted from the author list for his chair duty's COI at LREC-COLING. I re-wrote the paper with new formalizations and experiments after advisee's graduation. <br>
+\* 📜3: Co-advised with Prof Min. He was omitted from the author list for his general chairing's COI at LREC-COLING. I re-wrote the paper with new formalizations and experiments after advisee's graduation. <br>
 
 # More information {#mi}
 ## Favorites
