@@ -18,7 +18,7 @@ https://scholar.google.com/citations?hl=en&user=a-oIKBoAAAAJ&view_op=list_works&
 # Research {#papers}
 ## Overview
 
-(1️⃣🌲) ❤️ 🆑, where 1️⃣🌲 is the encoding of myself and 🆑 is our research community. 
+I ❤️ 🆑. 
 
 I study how language models interpret meanings, relationships, and structures in linguistic elements like discourse and emojis. 
 My work involves developing new datasets, evaluation methods, and inference algorithms to advance understanding.
